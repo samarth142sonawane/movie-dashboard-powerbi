@@ -1,0 +1,1001 @@
+name,rating,genre,year,score,votes,director,writer,star,country,budget,gross,company,runtime
+Movie1,PG,Action,2014,6.6,1262169,Director D,Writer C,Actor D,USA,64789190,2236274478,Marvel,160
+Movie2,PG-13,Crime,2016,6.8,1662945,Director B,Writer B,Actor C,USA,212769095,2162938684,Disney,116
+Movie3,R,Sci-Fi,2003,8.4,1303823,Director D,Writer C,Actor C,USA,26538667,968000370,Marvel,164
+Movie4,G,Comedy,2009,5.6,1602181,Director A,Writer C,Actor A,USA,148433998,323184776,Warner Bros,119
+Movie5,PG,Animation,1987,9.5,1799177,Director C,Writer B,Actor B,USA,296010438,933559137,Paramount,154
+Movie6,G,Action,1998,5.2,1547921,Director C,Writer A,Actor C,USA,220058103,1737095652,Universal,93
+Movie7,G,Crime,1987,8.9,1820320,Director D,Writer A,Actor D,USA,30543890,443438498,Universal,161
+Movie8,R,Romance,2021,5.6,1910864,Director D,Writer A,Actor D,USA,69704135,813589382,Universal,172
+Movie9,PG-13,Comedy,2008,6.6,785938,Director C,Writer C,Actor C,USA,191485427,1280100766,Universal,100
+Movie10,PG-13,Animation,2017,6.6,1536403,Director A,Writer C,Actor D,USA,104009373,1673139480,Warner Bros,93
+Movie11,PG,Action,2009,8,1548487,Director D,Writer C,Actor A,USA,21073455,515630345,Warner Bros,127
+Movie12,PG-13,Sci-Fi,2013,6.6,583045,Director A,Writer B,Actor B,USA,191912364,2395969986,Paramount,85
+Movie13,R,Sci-Fi,2013,6.1,547628,Director B,Writer B,Actor A,USA,128939966,1140334344,Warner Bros,125
+Movie14,R,Sci-Fi,2006,7.9,1334413,Director B,Writer C,Actor A,USA,98834180,696326258,Warner Bros,108
+Movie15,R,Animation,2013,5.4,1007594,Director A,Writer C,Actor C,USA,39580695,384347300,Paramount,87
+Movie16,PG-13,Animation,1993,6.2,1451949,Director C,Writer C,Actor D,USA,203521331,1335441406,Warner Bros,147
+Movie17,PG-13,Romance,2001,8.7,300739,Director B,Writer A,Actor A,USA,204369440,1197321854,Marvel,137
+Movie18,PG,Comedy,1998,5.1,1390981,Director B,Writer A,Actor C,USA,243047694,2621451506,Disney,108
+Movie19,G,Crime,1994,6.4,1766077,Director B,Writer C,Actor C,USA,66111433,1644801133,Disney,100
+Movie20,R,Sci-Fi,1997,8.1,948607,Director C,Writer C,Actor C,USA,198507870,330671397,Warner Bros,119
+Movie21,PG-13,Crime,1996,7.2,1320161,Director A,Writer C,Actor C,USA,71816630,1664894453,Warner Bros,177
+Movie22,R,Sci-Fi,2022,8.6,1083132,Director C,Writer A,Actor B,USA,143819297,530316708,Paramount,85
+Movie23,PG,Romance,2015,5.5,1713535,Director A,Writer A,Actor D,USA,60503562,2771411828,Disney,103
+Movie24,G,Action,2002,8.8,249733,Director D,Writer A,Actor C,USA,216646537,773071704,Paramount,170
+Movie25,PG-13,Comedy,2000,6.5,1838032,Director C,Writer C,Actor C,USA,108561312,2230298342,Marvel,156
+Movie26,G,Romance,1999,7,1710108,Director B,Writer A,Actor C,USA,219805129,2729588013,Warner Bros,105
+Movie27,G,Drama,2020,8.7,1169429,Director B,Writer A,Actor A,USA,30314500,2946060820,Universal,159
+Movie28,PG-13,Comedy,2023,9.1,1133591,Director A,Writer A,Actor B,USA,114325510,1088750860,Marvel,112
+Movie29,PG,Romance,1996,7.5,1184703,Director A,Writer C,Actor B,USA,159381061,56150562,Universal,97
+Movie30,R,Drama,2014,9.1,989907,Director D,Writer A,Actor D,USA,40992914,797559481,Universal,161
+Movie31,PG,Romance,2001,7.8,1199965,Director D,Writer B,Actor D,USA,11651569,2700150377,Marvel,114
+Movie32,PG-13,Romance,1991,8.9,908394,Director A,Writer B,Actor A,USA,190147975,672260282,Disney,99
+Movie33,PG,Action,2017,7.2,276343,Director A,Writer C,Actor C,USA,142038321,2386798295,Marvel,85
+Movie34,G,Action,1984,8.2,1262434,Director A,Writer A,Actor A,USA,141857190,2509014404,Disney,170
+Movie35,PG-13,Drama,2010,5.4,1491051,Director D,Writer C,Actor D,USA,106995564,1739494875,Paramount,104
+Movie36,R,Action,1991,6.4,1377501,Director D,Writer A,Actor B,USA,63413266,545821476,Paramount,111
+Movie37,R,Animation,2022,7.8,1994309,Director C,Writer A,Actor B,USA,79132161,114009520,Universal,92
+Movie38,PG-13,Crime,2016,5.4,484333,Director D,Writer A,Actor A,USA,140701874,1686038425,Disney,108
+Movie39,R,Animation,2020,7.9,1408382,Director A,Writer C,Actor B,USA,194106144,1276721719,Paramount,166
+Movie40,R,Crime,2005,8.8,1830225,Director A,Writer C,Actor A,USA,156311125,2347583299,Universal,99
+Movie41,PG-13,Romance,2020,9.4,1662349,Director B,Writer C,Actor B,USA,124353544,1484139616,Marvel,158
+Movie42,R,Comedy,1990,9,1470396,Director C,Writer A,Actor C,USA,168198202,1310559638,Warner Bros,157
+Movie43,R,Drama,1982,5.8,52012,Director D,Writer B,Actor D,USA,246740328,271611696,Marvel,119
+Movie44,R,Sci-Fi,1997,6,1403855,Director C,Writer B,Actor A,USA,206803042,2463163216,Paramount,101
+Movie45,PG-13,Comedy,2008,8.7,584392,Director C,Writer B,Actor A,USA,216028575,1200070702,Paramount,89
+Movie46,G,Sci-Fi,1991,9.3,432499,Director D,Writer A,Actor A,USA,223412666,1221339719,Universal,106
+Movie47,R,Animation,1991,7.5,1752295,Director A,Writer C,Actor B,USA,12912805,1490818535,Disney,179
+Movie48,PG,Animation,1995,8.4,504935,Director C,Writer B,Actor A,USA,48106229,2809355404,Disney,98
+Movie49,PG-13,Romance,2013,5.1,1841858,Director A,Writer B,Actor A,USA,280363119,1113031137,Marvel,96
+Movie50,G,Drama,1987,8.9,328515,Director B,Writer A,Actor D,USA,49366471,2192774015,Marvel,112
+Movie51,PG-13,Crime,2007,5.6,689761,Director B,Writer B,Actor A,USA,189603233,1651045345,Warner Bros,140
+Movie52,G,Comedy,2010,8.7,768234,Director A,Writer C,Actor C,USA,199867741,891587126,Paramount,138
+Movie53,PG-13,Sci-Fi,2000,6.6,1259551,Director C,Writer C,Actor D,USA,166399524,1322587387,Paramount,173
+Movie54,G,Romance,2022,5.1,1533982,Director D,Writer A,Actor B,USA,26825950,167619839,Marvel,132
+Movie55,PG-13,Comedy,1989,9.5,452200,Director C,Writer C,Actor B,USA,21912076,473292128,Disney,102
+Movie56,PG-13,Drama,2019,9.5,406529,Director C,Writer C,Actor A,USA,251624313,1400830509,Universal,154
+Movie57,G,Drama,2005,8.3,1227903,Director A,Writer C,Actor D,USA,24213486,2498283246,Disney,149
+Movie58,PG-13,Romance,2009,8.2,1278840,Director C,Writer C,Actor B,USA,223934231,131606467,Paramount,102
+Movie59,PG-13,Action,1995,7.9,674839,Director B,Writer B,Actor D,USA,241891322,2145395635,Warner Bros,146
+Movie60,PG-13,Animation,2003,9.1,222128,Director A,Writer C,Actor A,USA,149650714,318189601,Marvel,148
+Movie61,G,Crime,1987,9.3,491713,Director A,Writer A,Actor D,USA,226758448,1996142053,Universal,166
+Movie62,G,Sci-Fi,1996,7.5,1959686,Director A,Writer C,Actor B,USA,96335052,689792123,Paramount,113
+Movie63,G,Comedy,2004,5.7,1753920,Director A,Writer C,Actor D,USA,161446497,2358828440,Paramount,175
+Movie64,R,Crime,2005,9.4,414065,Director C,Writer B,Actor B,USA,159235313,1214636005,Warner Bros,94
+Movie65,R,Drama,2016,5.5,1285253,Director D,Writer B,Actor A,USA,197930720,2854534358,Disney,124
+Movie66,G,Crime,2023,5.2,673569,Director B,Writer C,Actor C,USA,252115471,719202718,Marvel,176
+Movie67,PG-13,Action,1990,5.9,1870653,Director C,Writer A,Actor A,USA,95866117,1073594546,Universal,121
+Movie68,PG-13,Animation,2002,5.2,1650935,Director B,Writer A,Actor C,USA,112220770,1539915047,Universal,157
+Movie69,PG-13,Sci-Fi,1997,7.3,751515,Director C,Writer A,Actor C,USA,235782333,2057406421,Warner Bros,142
+Movie70,R,Comedy,1998,8.9,1119144,Director C,Writer A,Actor C,USA,161744243,2768076907,Marvel,160
+Movie71,R,Animation,1989,8.2,587915,Director D,Writer C,Actor D,USA,77256216,1518871812,Warner Bros,93
+Movie72,R,Action,2012,8.5,1087250,Director B,Writer C,Actor A,USA,216332627,1771222913,Universal,150
+Movie73,R,Action,1983,8.5,889928,Director A,Writer A,Actor C,USA,172040192,504636005,Universal,96
+Movie74,G,Crime,2013,6,244605,Director B,Writer C,Actor A,USA,114246355,2879396995,Universal,117
+Movie75,R,Romance,2019,9.3,925066,Director B,Writer A,Actor D,USA,217024635,2064554254,Disney,143
+Movie76,G,Animation,2014,7.4,447926,Director A,Writer B,Actor C,USA,246321142,1070582446,Disney,132
+Movie77,PG-13,Romance,2022,5.1,439498,Director D,Writer B,Actor A,USA,220698565,1331439368,Paramount,163
+Movie78,R,Crime,2016,9.1,729594,Director C,Writer A,Actor A,USA,260156307,536280099,Marvel,170
+Movie79,R,Drama,2019,8,1044674,Director B,Writer B,Actor D,USA,62661018,435031454,Disney,132
+Movie80,PG-13,Comedy,2019,7.5,1180662,Director A,Writer B,Actor A,USA,245801734,389297402,Paramount,131
+Movie81,PG,Sci-Fi,1998,6,383451,Director B,Writer A,Actor A,USA,247235254,2317687625,Disney,99
+Movie82,PG,Sci-Fi,2013,7.3,1122988,Director C,Writer B,Actor C,USA,238782070,1868682767,Paramount,118
+Movie83,PG,Comedy,2018,8.4,1780476,Director D,Writer A,Actor A,USA,43689669,624833768,Warner Bros,127
+Movie84,R,Animation,1992,8.4,1477854,Director A,Writer A,Actor D,USA,27777475,2711846596,Disney,143
+Movie85,PG-13,Romance,2020,7.7,870337,Director C,Writer A,Actor A,USA,29134414,2380445232,Paramount,87
+Movie86,G,Drama,1985,7.5,178252,Director D,Writer C,Actor A,USA,100128804,64893653,Marvel,175
+Movie87,PG,Animation,2012,7.2,482434,Director C,Writer B,Actor A,USA,293531454,2958602155,Warner Bros,137
+Movie88,R,Romance,2013,6.2,29243,Director A,Writer A,Actor A,USA,150140639,681499672,Warner Bros,115
+Movie89,PG,Sci-Fi,1996,6.9,963498,Director B,Writer C,Actor C,USA,103010037,1849484127,Warner Bros,168
+Movie90,G,Drama,2009,7.9,158052,Director D,Writer A,Actor B,USA,213218470,366783627,Paramount,87
+Movie91,PG,Drama,1988,7.8,1084747,Director C,Writer B,Actor D,USA,234797386,2602815831,Paramount,108
+Movie92,PG,Crime,1999,9.4,1349481,Director D,Writer C,Actor B,USA,223165121,2485695418,Marvel,80
+Movie93,G,Sci-Fi,2016,7.5,539219,Director B,Writer B,Actor B,USA,2893723,332202976,Marvel,111
+Movie94,R,Comedy,2016,8.1,570646,Director A,Writer A,Actor A,USA,210266558,782031776,Warner Bros,122
+Movie95,R,Comedy,2021,6.7,1434242,Director C,Writer B,Actor C,USA,273801161,2775992304,Marvel,125
+Movie96,PG-13,Comedy,1980,7.4,1406880,Director A,Writer C,Actor A,USA,125754685,39762164,Warner Bros,178
+Movie97,PG-13,Sci-Fi,1994,6.4,1470096,Director D,Writer A,Actor D,USA,238780934,1638855709,Warner Bros,152
+Movie98,G,Animation,2005,6.8,349723,Director B,Writer B,Actor A,USA,285214833,442756551,Warner Bros,166
+Movie99,R,Comedy,1990,6.5,210508,Director B,Writer C,Actor C,USA,27221311,1318119288,Marvel,115
+Movie100,PG,Sci-Fi,2005,6,1764513,Director D,Writer C,Actor B,USA,113762927,2143872840,Marvel,84
+Movie101,PG-13,Crime,2014,8,1289784,Director A,Writer C,Actor C,USA,62296224,2388697844,Paramount,178
+Movie102,G,Sci-Fi,1993,5.3,878373,Director D,Writer A,Actor D,USA,40661354,2395244920,Warner Bros,130
+Movie103,R,Animation,1994,5,526140,Director B,Writer A,Actor C,USA,36840998,1769796679,Universal,114
+Movie104,G,Animation,2021,5.4,1684459,Director A,Writer C,Actor C,USA,115691048,455138190,Paramount,129
+Movie105,PG,Crime,2015,6.7,1950421,Director A,Writer C,Actor C,USA,33808667,1106977697,Universal,102
+Movie106,R,Romance,2000,8,1966127,Director B,Writer B,Actor B,USA,14132024,2498886887,Warner Bros,160
+Movie107,G,Drama,1996,6.8,1370167,Director A,Writer A,Actor B,USA,251666377,423063029,Warner Bros,147
+Movie108,R,Animation,2004,7.6,1263382,Director D,Writer A,Actor C,USA,23448425,784625851,Paramount,180
+Movie109,PG,Crime,1997,6.6,770246,Director B,Writer A,Actor D,USA,90020803,47780153,Universal,86
+Movie110,PG,Romance,2021,5.9,58994,Director B,Writer C,Actor B,USA,242364191,1000743675,Warner Bros,99
+Movie111,PG-13,Action,1987,6.8,1769211,Director B,Writer A,Actor A,USA,195453258,1130217528,Warner Bros,87
+Movie112,G,Romance,2000,6.2,925747,Director C,Writer C,Actor C,USA,123862237,1227817695,Disney,165
+Movie113,PG-13,Romance,1983,8.6,1301751,Director B,Writer A,Actor B,USA,121407444,2349544941,Paramount,168
+Movie114,R,Action,2002,6.7,1043183,Director D,Writer C,Actor C,USA,233869507,461626413,Universal,175
+Movie115,PG,Comedy,1996,9.1,701618,Director D,Writer B,Actor A,USA,124575844,50504738,Marvel,113
+Movie116,PG,Drama,2006,6.3,1711428,Director B,Writer B,Actor B,USA,112843824,2045969416,Disney,167
+Movie117,PG,Comedy,2012,7.9,713627,Director A,Writer A,Actor D,USA,200872131,1056694487,Marvel,114
+Movie118,G,Romance,2012,5.3,756426,Director D,Writer A,Actor D,USA,109781056,924152954,Warner Bros,156
+Movie119,PG-13,Crime,1983,8.4,1997534,Director B,Writer C,Actor A,USA,277875894,1839627562,Disney,82
+Movie120,PG,Crime,1990,6.5,1952820,Director B,Writer C,Actor A,USA,296265599,1728163357,Disney,142
+Movie121,R,Crime,1982,8.3,1529090,Director D,Writer B,Actor A,USA,242802540,1185618971,Warner Bros,92
+Movie122,PG-13,Animation,1983,5.4,919239,Director B,Writer A,Actor C,USA,141057527,361002352,Paramount,175
+Movie123,PG-13,Action,2021,9.2,913698,Director B,Writer A,Actor C,USA,134216720,1040954555,Marvel,176
+Movie124,PG,Action,2019,5.3,1449975,Director D,Writer A,Actor B,USA,16595336,2409892815,Warner Bros,113
+Movie125,PG,Romance,1995,5.9,572839,Director B,Writer B,Actor C,USA,204943006,2690135719,Paramount,176
+Movie126,PG,Sci-Fi,2014,6.5,1678121,Director B,Writer A,Actor D,USA,61135534,1627047994,Disney,146
+Movie127,PG,Animation,1991,9.5,1948175,Director A,Writer A,Actor A,USA,251504930,2781376189,Marvel,81
+Movie128,PG-13,Drama,1985,8.9,1684644,Director A,Writer A,Actor A,USA,108954016,2042193515,Marvel,103
+Movie129,G,Action,2008,8.6,1087895,Director C,Writer C,Actor A,USA,5922027,2368861766,Warner Bros,152
+Movie130,G,Action,2011,8.2,1615940,Director C,Writer C,Actor C,USA,65148433,2538418753,Paramount,87
+Movie131,PG,Comedy,1990,8.6,1001241,Director A,Writer C,Actor A,USA,43848800,1257428908,Universal,122
+Movie132,PG-13,Animation,2007,7.6,1596825,Director D,Writer B,Actor B,USA,69378710,287621186,Paramount,157
+Movie133,G,Crime,2019,9.3,76364,Director C,Writer B,Actor B,USA,220297866,1409119434,Warner Bros,164
+Movie134,PG,Crime,2017,6.5,1951312,Director B,Writer B,Actor C,USA,94549887,1996614674,Paramount,153
+Movie135,G,Action,2003,7.4,1383549,Director A,Writer B,Actor B,USA,240430614,866620190,Disney,117
+Movie136,PG-13,Comedy,2020,5,1882529,Director D,Writer B,Actor B,USA,208274111,1427301044,Warner Bros,126
+Movie137,G,Animation,1982,7.3,309498,Director D,Writer B,Actor A,USA,26793366,2742107926,Paramount,122
+Movie138,PG-13,Romance,2011,5.1,970782,Director B,Writer B,Actor D,USA,245066397,346968616,Universal,120
+Movie139,G,Action,1988,9.2,1793308,Director D,Writer A,Actor A,USA,126158779,2116623675,Disney,169
+Movie140,R,Comedy,2020,8.5,1890937,Director B,Writer B,Actor D,USA,190633522,491592650,Paramount,153
+Movie141,R,Sci-Fi,1998,6.3,500384,Director A,Writer C,Actor A,USA,178352739,935886224,Marvel,123
+Movie142,PG-13,Animation,1995,6.7,224843,Director D,Writer A,Actor C,USA,81458429,1657519339,Warner Bros,107
+Movie143,R,Romance,1998,7,126060,Director D,Writer A,Actor A,USA,268723135,2719473135,Paramount,159
+Movie144,PG,Animation,1981,6.5,1947757,Director B,Writer B,Actor D,USA,213900638,2890492854,Warner Bros,155
+Movie145,R,Animation,2009,5.6,1901720,Director A,Writer A,Actor A,USA,294669924,876531341,Paramount,111
+Movie146,PG-13,Comedy,2017,5.2,76230,Director C,Writer C,Actor D,USA,167108209,962161916,Marvel,152
+Movie147,R,Crime,1985,7.1,1150508,Director C,Writer B,Actor A,USA,197499293,1228149411,Disney,152
+Movie148,R,Drama,2010,6.2,634387,Director B,Writer C,Actor D,USA,3493867,761810959,Paramount,120
+Movie149,PG-13,Drama,2015,5.5,780898,Director B,Writer A,Actor B,USA,119061111,1192257166,Paramount,133
+Movie150,PG-13,Comedy,2009,7.4,240158,Director C,Writer C,Actor A,USA,135083285,2182487512,Disney,149
+Movie151,R,Sci-Fi,1998,6.8,711239,Director D,Writer B,Actor B,USA,265487031,1329507242,Disney,141
+Movie152,G,Sci-Fi,1994,8.2,107772,Director D,Writer B,Actor C,USA,289915695,2805588811,Universal,87
+Movie153,R,Drama,1989,8.1,1752593,Director B,Writer B,Actor A,USA,276900298,1069659123,Warner Bros,165
+Movie154,R,Comedy,1987,7.3,1845938,Director A,Writer B,Actor B,USA,195411609,1704220075,Disney,127
+Movie155,G,Drama,2007,7.8,180661,Director C,Writer A,Actor D,USA,291398748,487681999,Marvel,151
+Movie156,G,Comedy,2015,9.2,1302535,Director A,Writer A,Actor C,USA,174881054,1855091514,Warner Bros,166
+Movie157,G,Sci-Fi,1981,7.3,1088372,Director A,Writer C,Actor C,USA,37207227,540913096,Marvel,83
+Movie158,G,Comedy,1988,8.6,775769,Director D,Writer B,Actor B,USA,266867956,2821888980,Universal,148
+Movie159,PG,Action,2013,7.3,748666,Director D,Writer B,Actor A,USA,13268589,2567493410,Paramount,111
+Movie160,G,Romance,1993,7.4,1255828,Director C,Writer A,Actor D,USA,33131226,1298824376,Marvel,127
+Movie161,G,Drama,2016,6.6,799285,Director C,Writer B,Actor A,USA,3766148,1508953932,Warner Bros,152
+Movie162,PG-13,Comedy,2003,9.2,1775839,Director D,Writer B,Actor A,USA,183702132,2876243998,Universal,180
+Movie163,PG,Drama,2018,8.4,1136630,Director B,Writer A,Actor B,USA,280681714,1627945689,Marvel,138
+Movie164,PG,Drama,2013,6.9,1717097,Director B,Writer B,Actor D,USA,182848056,2088793440,Warner Bros,177
+Movie165,PG-13,Action,1995,9.4,1102457,Director D,Writer B,Actor A,USA,268256744,2527652290,Warner Bros,169
+Movie166,R,Comedy,2010,6,1845375,Director D,Writer C,Actor B,USA,178011172,1427755207,Universal,152
+Movie167,R,Romance,1989,7.4,518253,Director C,Writer B,Actor C,USA,202551890,712446797,Disney,88
+Movie168,G,Crime,2022,8.8,1390151,Director B,Writer A,Actor D,USA,176514664,2359538262,Paramount,119
+Movie169,PG,Romance,1995,9.1,1020290,Director B,Writer C,Actor C,USA,47084392,1573990096,Universal,154
+Movie170,G,Comedy,2008,6.7,715774,Director A,Writer B,Actor B,USA,261612890,1790709328,Disney,133
+Movie171,PG,Crime,2005,9.4,1759183,Director B,Writer C,Actor A,USA,138972143,1974343521,Paramount,130
+Movie172,PG,Sci-Fi,1985,8.8,1112336,Director B,Writer C,Actor A,USA,287080530,1000036703,Warner Bros,139
+Movie173,G,Crime,1982,9.4,1865451,Director C,Writer C,Actor C,USA,96464814,2478460150,Universal,172
+Movie174,G,Comedy,2010,9.1,499713,Director B,Writer C,Actor B,USA,184713364,1617915181,Warner Bros,166
+Movie175,PG-13,Drama,2017,6.8,155644,Director B,Writer A,Actor A,USA,9390665,2731084471,Marvel,88
+Movie176,PG,Crime,2003,5.3,338005,Director A,Writer A,Actor A,USA,173235855,479495791,Marvel,155
+Movie177,PG-13,Animation,2001,6.1,1067536,Director C,Writer B,Actor D,USA,174239542,2589890397,Marvel,101
+Movie178,PG-13,Romance,2006,8.7,714054,Director D,Writer A,Actor A,USA,168436699,2576061131,Paramount,173
+Movie179,R,Action,1994,9,1345067,Director C,Writer A,Actor B,USA,191916972,1853539344,Warner Bros,114
+Movie180,PG,Comedy,2019,7.5,1691183,Director B,Writer B,Actor D,USA,265278926,2675745249,Paramount,84
+Movie181,R,Sci-Fi,1988,5.3,1168886,Director D,Writer A,Actor B,USA,7438960,1298702636,Universal,138
+Movie182,R,Sci-Fi,2012,5.4,914416,Director A,Writer B,Actor D,USA,284036595,2156147307,Warner Bros,89
+Movie183,R,Animation,2021,6.8,962078,Director A,Writer A,Actor B,USA,63214832,244298836,Universal,107
+Movie184,PG,Sci-Fi,1998,9,505974,Director B,Writer B,Actor A,USA,116291809,1974625993,Marvel,126
+Movie185,G,Drama,1987,5.4,1697263,Director C,Writer A,Actor A,USA,106957755,1820463608,Warner Bros,115
+Movie186,R,Crime,1980,7.3,1707879,Director C,Writer C,Actor A,USA,140669509,1299760556,Marvel,175
+Movie187,PG,Romance,2010,8.9,1831402,Director D,Writer C,Actor B,USA,188690454,1442849922,Disney,152
+Movie188,R,Crime,1987,5.5,40524,Director D,Writer C,Actor D,USA,288653538,377957632,Disney,157
+Movie189,PG,Animation,1989,5.6,1614146,Director D,Writer A,Actor B,USA,19820511,2786049370,Universal,128
+Movie190,R,Romance,2007,6.8,1918801,Director D,Writer A,Actor D,USA,105615982,1961590792,Warner Bros,146
+Movie191,PG-13,Romance,2006,6.5,1992876,Director A,Writer B,Actor B,USA,273716057,2632253357,Warner Bros,151
+Movie192,G,Animation,2008,7.1,1020599,Director A,Writer C,Actor A,USA,150779931,1720030345,Marvel,85
+Movie193,PG-13,Animation,2002,8.1,1040636,Director B,Writer C,Actor A,USA,155798997,1230665913,Universal,172
+Movie194,PG-13,Sci-Fi,1997,5.3,11628,Director A,Writer C,Actor C,USA,176856364,1914208466,Warner Bros,160
+Movie195,G,Animation,2016,6,1658350,Director D,Writer A,Actor B,USA,172367753,2258121054,Warner Bros,127
+Movie196,G,Romance,2001,7.2,1987855,Director C,Writer B,Actor A,USA,223400947,1771647173,Marvel,98
+Movie197,R,Drama,1988,5.1,23454,Director D,Writer C,Actor D,USA,93967949,2800815693,Disney,105
+Movie198,PG-13,Crime,1994,6,1433310,Director C,Writer B,Actor D,USA,112637033,2812787546,Paramount,160
+Movie199,R,Comedy,2020,5.5,463467,Director C,Writer B,Actor D,USA,43811291,1181301584,Marvel,110
+Movie200,PG-13,Action,2015,7.1,566333,Director B,Writer B,Actor B,USA,217922629,2552189149,Marvel,120
+Movie201,R,Sci-Fi,1993,7.6,1174905,Director B,Writer A,Actor C,USA,134414866,586562156,Disney,155
+Movie202,PG-13,Crime,1997,7.9,1252368,Director C,Writer A,Actor B,USA,175101750,2469943123,Universal,135
+Movie203,PG,Drama,1981,7.1,562450,Director B,Writer B,Actor C,USA,221494384,2436121626,Universal,128
+Movie204,G,Sci-Fi,2013,7.7,1476120,Director A,Writer C,Actor D,USA,110843405,2912541285,Warner Bros,87
+Movie205,R,Comedy,2002,6.7,1199453,Director B,Writer A,Actor B,USA,242718216,2976589665,Disney,151
+Movie206,R,Action,1990,5.8,472441,Director D,Writer A,Actor A,USA,263723426,1475268398,Paramount,139
+Movie207,R,Romance,2015,6.3,1822654,Director A,Writer C,Actor D,USA,104587778,1590872359,Marvel,122
+Movie208,PG,Comedy,2010,9.5,1126067,Director C,Writer C,Actor C,USA,38548593,2216173331,Universal,117
+Movie209,R,Comedy,1980,6.3,33907,Director A,Writer A,Actor C,USA,235557999,2508246003,Universal,106
+Movie210,R,Crime,1981,8.2,1050633,Director A,Writer C,Actor C,USA,24793944,1324113007,Warner Bros,160
+Movie211,PG-13,Crime,2010,7.4,1121389,Director C,Writer A,Actor C,USA,270483587,447065072,Paramount,93
+Movie212,R,Animation,2004,8.6,1716883,Director A,Writer C,Actor C,USA,31603307,2977196118,Warner Bros,170
+Movie213,PG-13,Romance,2009,6.7,1003301,Director B,Writer A,Actor C,USA,18876063,805883934,Marvel,111
+Movie214,G,Sci-Fi,1997,7.5,1615814,Director B,Writer C,Actor A,USA,51388975,2045260759,Disney,150
+Movie215,G,Action,2006,7.1,1400943,Director B,Writer C,Actor B,USA,245875093,2251999865,Warner Bros,152
+Movie216,G,Drama,2021,9.1,492422,Director D,Writer A,Actor D,USA,129406660,1032165050,Marvel,157
+Movie217,R,Sci-Fi,1994,5.7,1083529,Director D,Writer C,Actor C,USA,118639072,1340230410,Universal,100
+Movie218,G,Action,1986,7.7,239081,Director D,Writer C,Actor A,USA,54859353,1409821206,Marvel,99
+Movie219,PG-13,Action,1985,8.5,1127210,Director D,Writer A,Actor D,USA,57611371,1975724528,Warner Bros,121
+Movie220,G,Comedy,1985,9.4,973985,Director D,Writer C,Actor D,USA,138693156,2325758634,Disney,99
+Movie221,G,Action,2021,5.6,637106,Director B,Writer C,Actor D,USA,272300711,403825655,Warner Bros,145
+Movie222,PG-13,Comedy,2014,5.9,404838,Director D,Writer A,Actor D,USA,130997889,744665136,Paramount,133
+Movie223,R,Animation,2021,8.9,1323839,Director C,Writer B,Actor C,USA,299714410,1148642958,Disney,94
+Movie224,G,Crime,2013,7,1901297,Director B,Writer B,Actor C,USA,234855051,1113299967,Disney,151
+Movie225,R,Action,2019,8.9,1118695,Director C,Writer C,Actor B,USA,146929507,2100686676,Warner Bros,129
+Movie226,G,Action,2009,8.8,1730500,Director A,Writer C,Actor D,USA,3031117,164523113,Marvel,155
+Movie227,G,Action,2000,9.1,1776003,Director D,Writer C,Actor A,USA,237385378,2946512457,Universal,161
+Movie228,G,Romance,1987,6.4,1263300,Director D,Writer C,Actor A,USA,283017233,1593315135,Marvel,145
+Movie229,PG-13,Comedy,2006,6.9,367691,Director C,Writer A,Actor A,USA,287091148,1098233600,Warner Bros,87
+Movie230,PG-13,Drama,2021,6.6,831640,Director D,Writer C,Actor C,USA,57750278,2949777524,Marvel,163
+Movie231,PG,Comedy,1994,7.9,102273,Director B,Writer C,Actor C,USA,226616865,2918095317,Marvel,134
+Movie232,G,Crime,2013,5.7,1397546,Director B,Writer A,Actor B,USA,143644394,1821822695,Marvel,175
+Movie233,PG-13,Romance,2020,5.8,994467,Director B,Writer B,Actor A,USA,160055213,2827997086,Marvel,170
+Movie234,PG,Romance,2006,9.4,1844097,Director B,Writer A,Actor A,USA,181017689,93786134,Paramount,154
+Movie235,PG,Romance,2012,5.5,1132222,Director B,Writer B,Actor C,USA,128539338,1830384831,Paramount,84
+Movie236,R,Animation,2000,9,617843,Director B,Writer A,Actor A,USA,214675668,2824697236,Paramount,124
+Movie237,G,Crime,2010,6.7,1576461,Director A,Writer A,Actor D,USA,224779098,1395789276,Paramount,160
+Movie238,G,Drama,2007,8.3,18591,Director C,Writer B,Actor A,USA,253807217,1239317111,Universal,149
+Movie239,PG,Animation,1999,6.4,1453602,Director B,Writer C,Actor D,USA,112867770,2850707768,Warner Bros,91
+Movie240,R,Drama,2022,9.2,97747,Director D,Writer B,Actor A,USA,160160436,2670423413,Marvel,130
+Movie241,G,Crime,1994,7.8,1762748,Director B,Writer A,Actor A,USA,221565056,1863604790,Paramount,176
+Movie242,R,Comedy,2001,5.5,325854,Director A,Writer C,Actor A,USA,193748387,2303410178,Paramount,160
+Movie243,PG,Drama,1984,8.4,344145,Director D,Writer B,Actor D,USA,240453769,520017631,Disney,177
+Movie244,PG-13,Animation,1981,6.8,1433521,Director A,Writer A,Actor D,USA,55994830,2152602389,Disney,80
+Movie245,PG-13,Drama,2021,6.9,1149375,Director C,Writer B,Actor B,USA,69928947,1048322075,Paramount,131
+Movie246,PG-13,Drama,1999,9.2,1130507,Director C,Writer B,Actor B,USA,235881908,383306094,Warner Bros,150
+Movie247,G,Sci-Fi,2009,9.2,222222,Director D,Writer B,Actor C,USA,36637222,1463974602,Universal,144
+Movie248,PG,Sci-Fi,1996,7.9,1390701,Director C,Writer C,Actor B,USA,54476032,2261987935,Universal,178
+Movie249,PG,Comedy,1987,7.1,907470,Director B,Writer A,Actor C,USA,132102822,69154675,Paramount,97
+Movie250,PG,Comedy,1985,6.4,867945,Director D,Writer A,Actor B,USA,229289511,1344719784,Disney,132
+Movie251,R,Animation,2023,8.9,1126209,Director D,Writer B,Actor D,USA,269455927,2809081881,Warner Bros,130
+Movie252,PG,Action,2010,7.1,1352965,Director D,Writer A,Actor D,USA,271169097,1509951226,Universal,173
+Movie253,R,Action,2010,9,1644875,Director A,Writer A,Actor C,USA,221991577,2088221428,Marvel,173
+Movie254,PG-13,Romance,1999,6.9,1128491,Director C,Writer A,Actor B,USA,236633774,2322007242,Paramount,156
+Movie255,PG-13,Comedy,1999,6.3,1185775,Director D,Writer C,Actor D,USA,6726115,666693161,Paramount,159
+Movie256,PG,Drama,2004,8.1,563687,Director C,Writer B,Actor B,USA,298001005,1225056063,Universal,175
+Movie257,G,Drama,2019,6.4,1175574,Director C,Writer B,Actor A,USA,170214705,2863210662,Paramount,157
+Movie258,R,Crime,2000,8.8,192165,Director D,Writer A,Actor B,USA,157924249,2459872769,Paramount,110
+Movie259,PG-13,Comedy,2002,7.4,392488,Director D,Writer A,Actor D,USA,142630419,2255609991,Marvel,155
+Movie260,R,Action,2011,7.3,775936,Director D,Writer A,Actor B,USA,277561300,436239301,Universal,174
+Movie261,PG,Drama,2009,7.3,1232457,Director A,Writer A,Actor A,USA,261093079,2312204399,Universal,101
+Movie262,PG-13,Crime,2015,8.8,657644,Director C,Writer C,Actor C,USA,64969675,2703273077,Universal,139
+Movie263,PG,Crime,2019,6.6,730419,Director D,Writer B,Actor A,USA,46919379,51874674,Warner Bros,108
+Movie264,R,Sci-Fi,2014,9.2,427963,Director D,Writer B,Actor B,USA,63341958,1477444812,Disney,178
+Movie265,G,Animation,2004,5,1050400,Director C,Writer C,Actor C,USA,287639972,2260923474,Warner Bros,143
+Movie266,R,Romance,1989,8,1296171,Director B,Writer A,Actor B,USA,85061188,1713841359,Warner Bros,109
+Movie267,R,Romance,1990,5.3,1173532,Director B,Writer C,Actor B,USA,248716355,31044836,Warner Bros,95
+Movie268,R,Animation,1991,9,239425,Director C,Writer B,Actor A,USA,18826639,1027363924,Disney,171
+Movie269,PG,Animation,2001,6.1,1324190,Director B,Writer B,Actor D,USA,27996869,2790588490,Paramount,165
+Movie270,R,Animation,2021,9.1,747545,Director C,Writer C,Actor C,USA,110480275,1192666625,Marvel,165
+Movie271,PG,Comedy,1984,9.5,168615,Director B,Writer C,Actor D,USA,54708091,2212164749,Warner Bros,178
+Movie272,G,Animation,2014,9.4,1460720,Director C,Writer C,Actor B,USA,95341972,1279588533,Disney,105
+Movie273,G,Crime,1996,9.1,1409156,Director D,Writer C,Actor A,USA,6967364,2021411208,Warner Bros,119
+Movie274,PG-13,Comedy,2022,7.8,861235,Director D,Writer A,Actor A,USA,31597958,2981362312,Marvel,134
+Movie275,G,Animation,2021,9.4,415943,Director C,Writer A,Actor B,USA,284560827,132252004,Paramount,118
+Movie276,PG-13,Animation,1988,8.7,85599,Director A,Writer B,Actor A,USA,224976168,1964671432,Warner Bros,94
+Movie277,G,Romance,2011,7.1,1513419,Director D,Writer C,Actor A,USA,182655629,760803659,Disney,137
+Movie278,G,Animation,2003,7.5,591135,Director C,Writer A,Actor B,USA,25422095,364830250,Warner Bros,91
+Movie279,PG,Romance,2006,9.1,1004132,Director C,Writer A,Actor C,USA,45651506,1933192023,Marvel,132
+Movie280,R,Drama,2015,8.9,1258289,Director D,Writer B,Actor B,USA,204293796,1638124429,Marvel,149
+Movie281,PG,Comedy,2018,8.7,835554,Director A,Writer B,Actor A,USA,26260286,2990424108,Disney,91
+Movie282,PG,Animation,1995,7.9,1957994,Director D,Writer B,Actor C,USA,137938498,439761437,Paramount,154
+Movie283,G,Animation,1999,6.7,1861160,Director B,Writer B,Actor C,USA,159974783,411676052,Warner Bros,90
+Movie284,PG-13,Crime,2019,8.4,1103557,Director A,Writer C,Actor B,USA,150130627,2456786358,Disney,86
+Movie285,PG,Romance,1985,6.8,1589771,Director A,Writer C,Actor A,USA,153112594,1810038903,Disney,126
+Movie286,R,Sci-Fi,2006,6.7,1132201,Director A,Writer A,Actor C,USA,37287207,1289603273,Warner Bros,88
+Movie287,PG-13,Romance,2003,8.2,426703,Director D,Writer B,Actor B,USA,94963080,594458649,Disney,101
+Movie288,R,Comedy,2001,7.1,626398,Director C,Writer A,Actor D,USA,104995588,1449942576,Marvel,105
+Movie289,G,Drama,1982,7.7,1258961,Director A,Writer C,Actor B,USA,140801450,2087736919,Warner Bros,104
+Movie290,PG,Action,1991,5.8,40678,Director D,Writer B,Actor D,USA,259826404,2629249929,Marvel,155
+Movie291,R,Drama,1995,7.8,1528191,Director B,Writer B,Actor D,USA,42968240,2823524458,Warner Bros,167
+Movie292,R,Action,2003,5.9,122475,Director B,Writer A,Actor A,USA,67270067,771079665,Universal,94
+Movie293,PG,Animation,1981,8.7,1059591,Director D,Writer C,Actor D,USA,119980522,2810438598,Disney,166
+Movie294,PG,Crime,2008,9.5,646485,Director D,Writer A,Actor D,USA,183875702,1475984868,Paramount,171
+Movie295,PG-13,Sci-Fi,1991,7.8,965333,Director B,Writer A,Actor A,USA,105419321,2443696252,Warner Bros,160
+Movie296,G,Animation,2002,7,1722725,Director A,Writer A,Actor C,USA,272551980,2204144234,Marvel,174
+Movie297,G,Comedy,1990,6.4,388695,Director D,Writer A,Actor B,USA,169408810,2472041805,Universal,113
+Movie298,PG,Animation,2011,7.5,157482,Director D,Writer B,Actor B,USA,76858892,2212487223,Disney,85
+Movie299,G,Drama,1995,9.3,1600913,Director C,Writer A,Actor B,USA,205728590,1191462616,Marvel,167
+Movie300,G,Romance,2018,8.9,1287860,Director D,Writer C,Actor A,USA,257852921,1486074173,Disney,160
+Movie301,G,Animation,1990,6.7,1293141,Director D,Writer B,Actor B,USA,2402483,305244576,Disney,83
+Movie302,PG,Comedy,1982,7.6,154265,Director A,Writer B,Actor B,USA,287186946,824526920,Paramount,132
+Movie303,R,Crime,2002,5.1,258591,Director B,Writer B,Actor B,USA,163237522,2892800114,Marvel,175
+Movie304,PG-13,Comedy,1983,8.1,405898,Director C,Writer A,Actor C,USA,81514223,401066913,Warner Bros,156
+Movie305,PG-13,Drama,1992,5.2,1495389,Director B,Writer C,Actor A,USA,288676823,433401294,Paramount,180
+Movie306,R,Action,2014,6.5,1502394,Director D,Writer C,Actor D,USA,10467021,1072849698,Universal,109
+Movie307,G,Sci-Fi,1981,8.7,1910369,Director C,Writer A,Actor C,USA,19934629,1992154313,Paramount,143
+Movie308,R,Sci-Fi,2000,8.6,1899740,Director C,Writer B,Actor B,USA,204506226,2650809539,Marvel,177
+Movie309,PG-13,Action,2010,8.9,719715,Director B,Writer B,Actor A,USA,269198795,2785381206,Warner Bros,144
+Movie310,G,Action,1995,8.2,792181,Director D,Writer B,Actor C,USA,238807218,1457300813,Paramount,84
+Movie311,PG,Romance,2009,5.3,1990173,Director A,Writer B,Actor D,USA,70998112,2165049380,Universal,124
+Movie312,G,Drama,1992,8.3,404657,Director C,Writer A,Actor D,USA,258430388,278888395,Marvel,134
+Movie313,R,Romance,1983,9.1,214507,Director B,Writer B,Actor A,USA,3248554,753349651,Disney,126
+Movie314,PG,Drama,2007,9.4,899018,Director A,Writer C,Actor C,USA,163851495,413128495,Warner Bros,156
+Movie315,PG-13,Animation,1988,8.4,69679,Director A,Writer C,Actor A,USA,85671381,2078627909,Warner Bros,151
+Movie316,PG-13,Crime,1988,7.3,1458967,Director A,Writer C,Actor B,USA,210335324,2992052963,Marvel,176
+Movie317,R,Comedy,2021,6.8,1700880,Director B,Writer A,Actor A,USA,146118206,547219223,Paramount,115
+Movie318,R,Comedy,2022,6.9,1783549,Director C,Writer C,Actor D,USA,291957800,2731118530,Disney,121
+Movie319,PG,Animation,1988,5.9,1266744,Director C,Writer A,Actor C,USA,216149038,1986961290,Warner Bros,179
+Movie320,R,Crime,1997,6.8,1806949,Director C,Writer C,Actor D,USA,142462888,2141220906,Warner Bros,129
+Movie321,PG,Action,1992,5.8,28442,Director A,Writer B,Actor D,USA,90429628,2607491710,Warner Bros,164
+Movie322,PG-13,Animation,1998,5.6,1360567,Director D,Writer C,Actor B,USA,8266213,855613506,Disney,85
+Movie323,G,Comedy,2021,6.3,1825108,Director D,Writer A,Actor A,USA,92021959,1460336294,Disney,133
+Movie324,PG-13,Action,2001,9.3,938009,Director D,Writer A,Actor B,USA,84953157,2831114642,Warner Bros,135
+Movie325,PG,Animation,2005,6.8,1181227,Director C,Writer B,Actor D,USA,31017191,2690298071,Marvel,118
+Movie326,G,Romance,2013,7.4,1224285,Director C,Writer C,Actor D,USA,22803734,2431387164,Disney,133
+Movie327,PG,Crime,2022,7.9,954052,Director B,Writer B,Actor D,USA,159710823,1210497419,Disney,133
+Movie328,R,Comedy,1982,6.6,630020,Director A,Writer A,Actor B,USA,179034002,2245613146,Marvel,143
+Movie329,PG,Animation,2022,8.7,886804,Director D,Writer B,Actor A,USA,3129062,1380488389,Paramount,82
+Movie330,R,Comedy,1982,7.4,82191,Director D,Writer A,Actor C,USA,223354652,2441433768,Disney,155
+Movie331,G,Animation,2006,5.1,1038967,Director A,Writer C,Actor D,USA,232518045,323646768,Universal,118
+Movie332,R,Sci-Fi,1997,7.6,280922,Director C,Writer A,Actor D,USA,221300975,1024840488,Marvel,88
+Movie333,R,Comedy,2021,5.3,1691120,Director A,Writer C,Actor D,USA,251483923,866121410,Marvel,179
+Movie334,R,Crime,2017,7.1,214491,Director B,Writer A,Actor A,USA,128503730,2080042954,Marvel,146
+Movie335,PG-13,Comedy,2010,5.9,853115,Director A,Writer C,Actor C,USA,218533419,2154589869,Marvel,82
+Movie336,G,Sci-Fi,2005,6.5,1891,Director C,Writer B,Actor D,USA,66778383,2668127505,Marvel,107
+Movie337,PG-13,Sci-Fi,1993,8.2,3668,Director B,Writer C,Actor A,USA,297703453,404291215,Disney,138
+Movie338,PG-13,Animation,1987,5.4,543472,Director C,Writer B,Actor A,USA,93184100,327430910,Marvel,127
+Movie339,G,Action,1999,8.4,252288,Director A,Writer A,Actor A,USA,253085964,1175458090,Paramount,126
+Movie340,G,Action,2020,8,1153868,Director D,Writer B,Actor B,USA,96160488,2135284093,Disney,115
+Movie341,G,Animation,1985,7.2,1574201,Director A,Writer A,Actor C,USA,222633140,830943142,Disney,156
+Movie342,PG-13,Romance,1987,9.5,1771546,Director D,Writer C,Actor A,USA,10348234,1337033302,Marvel,125
+Movie343,R,Crime,1996,9.1,1302826,Director B,Writer A,Actor D,USA,12658044,2636236407,Universal,152
+Movie344,R,Animation,2002,5.1,1961677,Director B,Writer B,Actor A,USA,211181716,393059521,Paramount,136
+Movie345,PG-13,Romance,1985,9,1258034,Director A,Writer B,Actor B,USA,260420377,2917950826,Universal,101
+Movie346,R,Comedy,1988,8.4,478558,Director D,Writer C,Actor B,USA,162493254,897482160,Warner Bros,140
+Movie347,PG,Romance,2010,7.8,878606,Director A,Writer C,Actor A,USA,224588939,1871935417,Paramount,166
+Movie348,PG,Sci-Fi,1981,7.3,1436536,Director B,Writer A,Actor B,USA,238029290,1088964708,Universal,100
+Movie349,R,Sci-Fi,2016,8.7,1251109,Director C,Writer A,Actor B,USA,294802148,2550175774,Disney,82
+Movie350,R,Sci-Fi,2016,9.4,1764472,Director D,Writer B,Actor B,USA,121139960,581543065,Disney,147
+Movie351,R,Drama,1987,8.3,1788859,Director C,Writer B,Actor D,USA,198782165,869320378,Warner Bros,152
+Movie352,G,Romance,1999,5.5,766767,Director D,Writer C,Actor D,USA,201795932,2386223598,Warner Bros,102
+Movie353,G,Sci-Fi,2013,6.2,1129558,Director A,Writer B,Actor B,USA,191051148,250769640,Universal,107
+Movie354,G,Crime,2009,6.9,1396938,Director D,Writer A,Actor D,USA,27898592,300456356,Universal,117
+Movie355,PG,Sci-Fi,1985,8.6,1416353,Director D,Writer B,Actor C,USA,219772722,2224490814,Universal,95
+Movie356,G,Romance,2011,8.3,27228,Director A,Writer C,Actor C,USA,207568618,935296987,Marvel,180
+Movie357,PG,Drama,1981,6.6,1769424,Director B,Writer C,Actor C,USA,193312803,1207653382,Warner Bros,116
+Movie358,G,Drama,1981,7.8,109205,Director D,Writer A,Actor B,USA,258087933,2242891495,Warner Bros,180
+Movie359,R,Crime,2013,6.4,1502128,Director A,Writer B,Actor B,USA,272598685,39722258,Warner Bros,152
+Movie360,R,Comedy,2001,7.2,1101963,Director A,Writer B,Actor B,USA,274380213,2384242121,Marvel,83
+Movie361,PG,Sci-Fi,2015,6.3,1092409,Director B,Writer B,Actor C,USA,215619643,133263975,Warner Bros,119
+Movie362,G,Romance,1992,9,615416,Director B,Writer A,Actor A,USA,38357071,2115291717,Universal,100
+Movie363,G,Crime,2017,9.1,383387,Director D,Writer A,Actor B,USA,41288255,1068968032,Disney,145
+Movie364,PG,Animation,1996,9.5,114338,Director C,Writer B,Actor A,USA,33605428,1634757276,Disney,133
+Movie365,G,Comedy,2022,6.1,1524213,Director A,Writer B,Actor C,USA,103143712,985890007,Paramount,166
+Movie366,G,Action,1987,5.9,1770128,Director A,Writer A,Actor C,USA,209157079,2890617902,Paramount,137
+Movie367,PG-13,Sci-Fi,2020,7.2,1192769,Director D,Writer A,Actor A,USA,158725882,18311290,Warner Bros,155
+Movie368,PG-13,Sci-Fi,1981,7.5,1704825,Director D,Writer B,Actor D,USA,152664491,2181476717,Marvel,125
+Movie369,R,Comedy,2002,6.7,556390,Director C,Writer C,Actor B,USA,220469641,1867177007,Universal,172
+Movie370,R,Animation,2009,6.3,113336,Director B,Writer B,Actor C,USA,42766011,673216523,Disney,125
+Movie371,G,Animation,1990,7.8,1257931,Director C,Writer C,Actor C,USA,39928240,2462086523,Paramount,166
+Movie372,G,Sci-Fi,2008,5.5,1562082,Director A,Writer C,Actor C,USA,218499669,1152449634,Marvel,94
+Movie373,PG,Crime,1985,8.8,790484,Director C,Writer B,Actor A,USA,234440975,1078882350,Paramount,143
+Movie374,PG-13,Crime,2001,5,1251447,Director C,Writer B,Actor D,USA,141724171,901150057,Warner Bros,116
+Movie375,PG,Drama,2016,5.9,502634,Director A,Writer A,Actor C,USA,144735260,256761450,Universal,83
+Movie376,G,Animation,2015,8.3,815208,Director C,Writer A,Actor D,USA,196308536,2679783624,Paramount,85
+Movie377,G,Crime,2001,5.3,1275280,Director B,Writer C,Actor B,USA,141977470,1925620098,Warner Bros,153
+Movie378,PG-13,Action,2002,9.2,1594050,Director A,Writer A,Actor A,USA,236374231,212256115,Disney,135
+Movie379,PG-13,Animation,1987,6,982548,Director D,Writer C,Actor A,USA,125428995,456397824,Universal,105
+Movie380,PG-13,Drama,1998,5.2,1649151,Director A,Writer A,Actor B,USA,69465221,242882045,Warner Bros,147
+Movie381,G,Romance,1988,8.3,1911516,Director D,Writer C,Actor B,USA,169602782,582999115,Marvel,180
+Movie382,G,Crime,2016,6.6,1815782,Director D,Writer A,Actor D,USA,181699733,1802244738,Universal,80
+Movie383,PG-13,Animation,1999,9,1220992,Director C,Writer C,Actor D,USA,212786836,1036086462,Disney,98
+Movie384,R,Sci-Fi,2011,8.7,898223,Director B,Writer A,Actor A,USA,114536985,1257282982,Warner Bros,148
+Movie385,R,Action,2023,6.6,1361806,Director B,Writer C,Actor C,USA,168434463,1150019596,Marvel,173
+Movie386,R,Sci-Fi,2009,6.3,1019146,Director A,Writer B,Actor D,USA,41383338,1063864541,Paramount,115
+Movie387,PG-13,Sci-Fi,2001,7.8,1959406,Director B,Writer B,Actor D,USA,268085756,636602062,Paramount,180
+Movie388,PG,Comedy,1987,7.9,1512464,Director D,Writer A,Actor C,USA,75217628,2511107008,Disney,143
+Movie389,PG,Action,1990,8.1,1994698,Director A,Writer B,Actor B,USA,23532620,274643228,Warner Bros,137
+Movie390,R,Crime,2023,7.6,1221217,Director A,Writer B,Actor C,USA,270448527,1156291556,Disney,154
+Movie391,PG-13,Animation,1995,6,1244941,Director B,Writer C,Actor B,USA,27697942,1959769897,Marvel,161
+Movie392,R,Sci-Fi,2004,7.2,11234,Director B,Writer C,Actor D,USA,27495031,2458878477,Paramount,149
+Movie393,PG,Crime,1981,8.8,1467894,Director B,Writer A,Actor A,USA,255637417,1278602622,Disney,114
+Movie394,R,Animation,1985,9.4,1548379,Director B,Writer B,Actor B,USA,122218226,2660956072,Universal,107
+Movie395,PG-13,Drama,2004,7.9,124131,Director C,Writer B,Actor D,USA,236067467,2583327951,Paramount,174
+Movie396,R,Crime,1997,7.6,671491,Director A,Writer C,Actor D,USA,84370750,1506346659,Marvel,123
+Movie397,R,Romance,2008,6.8,1567715,Director A,Writer A,Actor B,USA,74099070,2717691417,Paramount,135
+Movie398,G,Sci-Fi,1998,6.3,1137275,Director C,Writer B,Actor C,USA,17972908,2183056518,Warner Bros,109
+Movie399,G,Action,1999,5.7,1228749,Director C,Writer B,Actor A,USA,223870884,2184635384,Universal,156
+Movie400,G,Action,2007,5.1,954418,Director A,Writer B,Actor A,USA,109339620,254740969,Universal,166
+Movie401,PG-13,Animation,1989,9.1,1607699,Director B,Writer C,Actor D,USA,65941736,1683846143,Disney,172
+Movie402,PG,Romance,1986,9.1,1660117,Director A,Writer B,Actor C,USA,292815232,2667422602,Warner Bros,121
+Movie403,G,Sci-Fi,1992,9.2,419140,Director C,Writer C,Actor C,USA,68103225,439855534,Paramount,92
+Movie404,PG,Crime,1993,7.2,899691,Director B,Writer C,Actor B,USA,244254941,2464246343,Universal,171
+Movie405,R,Drama,2012,8.7,162556,Director B,Writer C,Actor A,USA,115635155,2729768603,Universal,94
+Movie406,PG-13,Comedy,2000,6.5,883071,Director A,Writer A,Actor A,USA,67139133,1753679393,Paramount,139
+Movie407,PG-13,Action,1988,6,1544317,Director C,Writer C,Actor D,USA,115110303,1426995933,Marvel,109
+Movie408,PG-13,Crime,1991,8.1,1489785,Director A,Writer B,Actor D,USA,152529094,862034928,Universal,141
+Movie409,PG-13,Action,2003,6.6,426552,Director C,Writer A,Actor A,USA,74296885,2254043,Warner Bros,153
+Movie410,R,Animation,1993,7.8,931683,Director D,Writer A,Actor B,USA,108555409,2528867161,Disney,132
+Movie411,PG,Drama,2023,6.3,1490455,Director C,Writer B,Actor B,USA,267128874,210658657,Universal,157
+Movie412,G,Comedy,2008,5.2,686699,Director A,Writer A,Actor D,USA,116840914,1603586101,Marvel,101
+Movie413,R,Sci-Fi,1985,9.4,286453,Director D,Writer A,Actor A,USA,138436258,2318274390,Marvel,88
+Movie414,G,Drama,2008,8.1,1947609,Director C,Writer C,Actor A,USA,49440654,895310079,Disney,139
+Movie415,PG-13,Animation,1988,7.6,527899,Director C,Writer C,Actor D,USA,113242412,2358477229,Warner Bros,151
+Movie416,PG-13,Animation,1989,8.4,1685260,Director B,Writer B,Actor C,USA,13599433,909061931,Marvel,167
+Movie417,R,Animation,2016,6.1,949642,Director D,Writer B,Actor C,USA,166828658,853310149,Paramount,138
+Movie418,PG,Crime,1996,7.3,95275,Director A,Writer B,Actor C,USA,92657300,985963147,Universal,107
+Movie419,G,Comedy,1996,8.2,1076645,Director C,Writer A,Actor D,USA,165188097,1135498795,Universal,131
+Movie420,PG,Crime,1995,8.4,1294343,Director C,Writer C,Actor D,USA,26743594,420140017,Universal,99
+Movie421,R,Action,1984,6.6,1343120,Director A,Writer B,Actor C,USA,269860608,2674002652,Marvel,169
+Movie422,R,Comedy,2001,9.3,1402189,Director D,Writer C,Actor B,USA,135937328,620354159,Paramount,95
+Movie423,PG-13,Comedy,2009,7.6,51700,Director C,Writer A,Actor A,USA,106142019,1495850553,Paramount,155
+Movie424,PG,Action,2002,5.9,235296,Director C,Writer C,Actor D,USA,163991567,746746785,Marvel,89
+Movie425,G,Comedy,2006,6.8,1876777,Director A,Writer A,Actor C,USA,2909868,1762505662,Disney,175
+Movie426,G,Drama,1991,8.8,258324,Director A,Writer A,Actor B,USA,169228061,662767219,Paramount,161
+Movie427,PG-13,Drama,1999,7.9,1443035,Director B,Writer B,Actor C,USA,201234827,331769516,Warner Bros,175
+Movie428,PG,Romance,2020,9,1464080,Director B,Writer A,Actor B,USA,230469465,243361044,Warner Bros,96
+Movie429,PG,Comedy,1983,7.4,983117,Director A,Writer A,Actor A,USA,209469883,334277219,Disney,177
+Movie430,G,Romance,2005,5.7,523776,Director C,Writer B,Actor D,USA,9414822,421382431,Warner Bros,146
+Movie431,R,Drama,1995,5.8,1755513,Director B,Writer A,Actor A,USA,90447195,278151595,Warner Bros,162
+Movie432,R,Crime,1985,8,246602,Director D,Writer B,Actor B,USA,48161240,2048413813,Paramount,164
+Movie433,PG-13,Drama,2006,8.5,1371733,Director C,Writer A,Actor D,USA,12795705,1540262785,Universal,152
+Movie434,PG-13,Action,2001,8.5,1586908,Director D,Writer B,Actor D,USA,297661506,2804318224,Warner Bros,148
+Movie435,PG,Comedy,1995,6.4,1310918,Director D,Writer A,Actor D,USA,39357853,602011405,Warner Bros,99
+Movie436,PG,Drama,1988,5.5,856605,Director A,Writer C,Actor C,USA,263052101,1840241072,Marvel,150
+Movie437,R,Drama,2021,7.9,1576193,Director B,Writer C,Actor A,USA,195488175,2251353159,Disney,133
+Movie438,G,Sci-Fi,1995,7.2,172593,Director C,Writer A,Actor B,USA,119998534,2898418817,Paramount,173
+Movie439,PG,Sci-Fi,2008,7.6,1245817,Director B,Writer C,Actor B,USA,45173738,301500650,Marvel,155
+Movie440,R,Romance,2020,6.1,1795436,Director C,Writer B,Actor A,USA,200133904,1770671468,Warner Bros,86
+Movie441,G,Drama,1980,5.5,596413,Director A,Writer C,Actor D,USA,4462868,1997588838,Warner Bros,170
+Movie442,R,Animation,2021,8.8,485327,Director B,Writer A,Actor D,USA,295199022,2128905517,Disney,100
+Movie443,R,Drama,2022,5.7,837604,Director A,Writer A,Actor B,USA,230135539,1280150423,Marvel,148
+Movie444,G,Crime,2003,8.8,1391596,Director C,Writer A,Actor B,USA,98970021,2733512033,Paramount,87
+Movie445,PG-13,Sci-Fi,2000,9.3,1490387,Director C,Writer B,Actor A,USA,164310732,1060111349,Paramount,117
+Movie446,G,Comedy,2007,7.3,1289584,Director D,Writer A,Actor B,USA,106436840,1645885899,Marvel,135
+Movie447,R,Animation,2023,5.8,777584,Director A,Writer C,Actor D,USA,18098360,730944479,Universal,155
+Movie448,PG-13,Romance,1991,5.3,1018564,Director B,Writer B,Actor D,USA,224596641,2262505058,Warner Bros,133
+Movie449,R,Animation,2021,6.3,1269624,Director A,Writer A,Actor B,USA,22665316,2220062735,Universal,97
+Movie450,G,Crime,1982,7.7,382538,Director A,Writer C,Actor B,USA,46977278,2369106366,Warner Bros,94
+Movie451,R,Comedy,1995,7.7,406096,Director C,Writer B,Actor B,USA,145367981,1996466954,Warner Bros,120
+Movie452,R,Crime,2001,8.2,1494071,Director C,Writer A,Actor A,USA,294628673,1965425432,Warner Bros,139
+Movie453,G,Comedy,1982,8.2,735449,Director B,Writer A,Actor D,USA,54156768,1390497877,Paramount,125
+Movie454,PG-13,Drama,2023,6.9,578301,Director D,Writer B,Actor C,USA,123582523,758403646,Universal,176
+Movie455,PG,Animation,1987,5.2,1895141,Director D,Writer B,Actor C,USA,76631119,255125379,Paramount,120
+Movie456,PG-13,Drama,2023,5.5,1527479,Director C,Writer C,Actor C,USA,117792549,2552068772,Warner Bros,106
+Movie457,PG-13,Sci-Fi,1987,7.6,211016,Director B,Writer B,Actor D,USA,168255345,2300608450,Marvel,145
+Movie458,R,Comedy,2015,7.8,1305206,Director C,Writer C,Actor B,USA,190724705,1544957629,Marvel,103
+Movie459,PG,Sci-Fi,2020,6.8,1326560,Director A,Writer A,Actor C,USA,41954037,215464141,Disney,132
+Movie460,G,Action,1999,6.1,14111,Director B,Writer A,Actor A,USA,276875173,2268904336,Warner Bros,101
+Movie461,PG-13,Action,2007,5.2,1038323,Director B,Writer B,Actor D,USA,152316879,124660560,Disney,169
+Movie462,R,Comedy,2010,8.5,605213,Director D,Writer B,Actor D,USA,77276816,353207904,Universal,107
+Movie463,G,Animation,1999,7.9,1164027,Director A,Writer B,Actor A,USA,81692215,2026301314,Warner Bros,89
+Movie464,G,Drama,2020,8.3,880388,Director A,Writer B,Actor A,USA,260091481,2058097642,Marvel,142
+Movie465,PG-13,Animation,2006,6.8,1460889,Director A,Writer B,Actor B,USA,124244257,1638226545,Paramount,89
+Movie466,PG-13,Comedy,2001,7,1724258,Director D,Writer B,Actor C,USA,270702371,2310870705,Paramount,145
+Movie467,PG,Sci-Fi,2017,7.1,473233,Director C,Writer A,Actor D,USA,155055275,2911255610,Marvel,122
+Movie468,G,Sci-Fi,2021,5.6,358301,Director A,Writer A,Actor B,USA,55784426,2613378212,Marvel,85
+Movie469,PG,Comedy,1982,7.7,245921,Director B,Writer B,Actor A,USA,19260147,1587014262,Paramount,176
+Movie470,G,Romance,1987,5.4,1754703,Director A,Writer B,Actor C,USA,9118762,282950906,Paramount,104
+Movie471,PG,Comedy,2006,9,1048119,Director D,Writer C,Actor C,USA,124988364,2836955780,Disney,137
+Movie472,R,Animation,1988,9.3,39467,Director C,Writer B,Actor D,USA,272712813,2260011133,Universal,161
+Movie473,PG,Sci-Fi,2001,8.8,1767970,Director B,Writer B,Actor A,USA,194052830,321699453,Disney,151
+Movie474,PG,Animation,2012,8.1,1287235,Director D,Writer B,Actor C,USA,270336098,509579416,Marvel,127
+Movie475,R,Action,2003,8.9,836435,Director C,Writer B,Actor A,USA,252326167,2254784916,Disney,178
+Movie476,R,Comedy,2018,6.6,791917,Director B,Writer B,Actor B,USA,95778315,489247096,Universal,112
+Movie477,G,Sci-Fi,1982,6.1,1983539,Director A,Writer B,Actor D,USA,159661825,2299031997,Warner Bros,177
+Movie478,R,Romance,2004,6.1,1759249,Director C,Writer A,Actor D,USA,187669866,349903837,Warner Bros,119
+Movie479,PG,Crime,2004,5.7,1515096,Director B,Writer A,Actor D,USA,119802368,481655052,Universal,155
+Movie480,R,Action,1993,5.1,744453,Director A,Writer B,Actor D,USA,243324945,2042852684,Marvel,171
+Movie481,G,Sci-Fi,2008,8.1,777792,Director A,Writer A,Actor D,USA,219905968,918600129,Paramount,89
+Movie482,G,Animation,2003,5.1,1542977,Director D,Writer C,Actor D,USA,65642308,1447696157,Universal,110
+Movie483,PG,Comedy,2022,8.7,1303758,Director D,Writer C,Actor C,USA,120371576,2145004228,Paramount,174
+Movie484,PG-13,Animation,2005,8,78023,Director C,Writer C,Actor D,USA,202941511,1636244049,Marvel,174
+Movie485,PG,Animation,1986,6.4,572709,Director C,Writer A,Actor A,USA,84473736,922635388,Paramount,107
+Movie486,R,Animation,2019,6.9,750141,Director C,Writer C,Actor D,USA,292194732,1422818244,Marvel,158
+Movie487,R,Sci-Fi,1985,6.2,1116216,Director B,Writer C,Actor A,USA,151992217,2946676441,Marvel,128
+Movie488,R,Animation,1981,5.8,1209097,Director D,Writer B,Actor B,USA,74401425,1914301257,Marvel,133
+Movie489,G,Action,2023,6.1,1872001,Director B,Writer B,Actor A,USA,41626385,370082301,Warner Bros,164
+Movie490,G,Sci-Fi,2014,5.8,388895,Director B,Writer C,Actor D,USA,167933913,299042759,Universal,111
+Movie491,PG-13,Drama,1996,6,239769,Director A,Writer C,Actor A,USA,238265531,1957212341,Paramount,89
+Movie492,PG-13,Comedy,1981,7.1,375312,Director B,Writer A,Actor B,USA,42850995,2275875353,Disney,97
+Movie493,G,Romance,1997,7,1169662,Director D,Writer B,Actor A,USA,24361467,1377720881,Universal,113
+Movie494,PG-13,Action,1995,8.9,1739785,Director A,Writer A,Actor C,USA,213324839,2040166604,Warner Bros,176
+Movie495,R,Romance,2008,9.3,1230052,Director B,Writer B,Actor A,USA,274158603,796731044,Paramount,159
+Movie496,G,Crime,2008,6.7,683212,Director A,Writer B,Actor D,USA,219855690,2172641317,Paramount,156
+Movie497,PG,Action,1986,5.6,351805,Director A,Writer B,Actor D,USA,92630743,831122748,Disney,117
+Movie498,G,Comedy,2005,8.1,810357,Director B,Writer C,Actor B,USA,271090890,294452516,Warner Bros,168
+Movie499,R,Romance,2001,9.3,311287,Director C,Writer B,Actor D,USA,134172341,1763784216,Paramount,153
+Movie500,G,Sci-Fi,1990,9.4,466439,Director B,Writer B,Actor A,USA,293395397,966681407,Universal,161
+Movie501,G,Sci-Fi,2002,5.3,214835,Director B,Writer B,Actor C,USA,281218214,2512650260,Disney,144
+Movie502,PG,Crime,2000,8.3,1013787,Director A,Writer C,Actor A,USA,136827663,2638994638,Warner Bros,96
+Movie503,G,Drama,2015,8.3,508179,Director C,Writer B,Actor C,USA,204178846,1153689663,Warner Bros,155
+Movie504,PG-13,Sci-Fi,2017,6.4,1411449,Director B,Writer A,Actor D,USA,22197806,722873105,Marvel,111
+Movie505,R,Crime,2010,5.4,1941506,Director C,Writer B,Actor A,USA,43763456,726482338,Universal,88
+Movie506,PG-13,Comedy,2008,9.2,852215,Director C,Writer C,Actor D,USA,204491728,2840359849,Marvel,156
+Movie507,PG-13,Romance,2017,7.4,892564,Director B,Writer B,Actor B,USA,216682262,168618191,Universal,101
+Movie508,PG-13,Crime,2018,7.4,1090755,Director B,Writer A,Actor B,USA,172577576,307700476,Paramount,178
+Movie509,R,Drama,1992,7.3,728685,Director B,Writer C,Actor D,USA,87120375,56759422,Disney,123
+Movie510,PG,Animation,1994,7.4,551809,Director A,Writer A,Actor B,USA,217860907,418667304,Warner Bros,140
+Movie511,PG,Crime,1993,8.2,1087109,Director C,Writer A,Actor D,USA,28320874,1719257089,Universal,93
+Movie512,PG-13,Romance,1980,6.4,1062798,Director A,Writer C,Actor A,USA,246164453,1502355372,Disney,101
+Movie513,PG-13,Drama,2017,6.8,289487,Director C,Writer B,Actor C,USA,25041990,1153626104,Paramount,116
+Movie514,G,Animation,2019,8.2,1277434,Director B,Writer C,Actor D,USA,183717386,2841000480,Disney,142
+Movie515,R,Sci-Fi,2021,7.8,934186,Director C,Writer B,Actor A,USA,287121424,842237297,Marvel,177
+Movie516,PG,Animation,2018,9,1765685,Director B,Writer A,Actor A,USA,275395965,2802495870,Disney,103
+Movie517,PG,Romance,2002,5.9,316274,Director B,Writer A,Actor D,USA,200271056,1587486283,Warner Bros,116
+Movie518,PG-13,Crime,2003,6,903324,Director D,Writer B,Actor D,USA,247830584,1093063935,Warner Bros,148
+Movie519,PG-13,Crime,1981,7.5,1090757,Director B,Writer A,Actor C,USA,179209033,694835019,Marvel,138
+Movie520,PG,Comedy,2022,9.5,1797471,Director A,Writer A,Actor B,USA,52831574,1582568956,Warner Bros,92
+Movie521,PG,Comedy,1981,5.7,457304,Director B,Writer B,Actor D,USA,128912008,1793848221,Warner Bros,164
+Movie522,G,Comedy,1987,7.7,345547,Director A,Writer B,Actor C,USA,277708545,234553374,Universal,143
+Movie523,PG,Crime,2018,7.5,1642623,Director A,Writer A,Actor C,USA,161270436,1828254435,Warner Bros,104
+Movie524,PG,Action,2011,6.7,1508553,Director D,Writer B,Actor D,USA,8933483,1364530596,Universal,103
+Movie525,PG-13,Drama,1982,8.5,592943,Director B,Writer C,Actor D,USA,293412688,1509948569,Disney,127
+Movie526,G,Drama,1985,7,162867,Director A,Writer A,Actor C,USA,213510145,1510421719,Paramount,114
+Movie527,R,Action,1981,7.8,1445916,Director B,Writer B,Actor C,USA,197249274,526995003,Warner Bros,120
+Movie528,G,Crime,2020,9.4,395377,Director B,Writer B,Actor B,USA,25897521,2313886525,Universal,161
+Movie529,PG-13,Animation,1987,6.5,1904970,Director B,Writer A,Actor B,USA,282538375,2976415297,Universal,104
+Movie530,G,Romance,2021,7.9,156618,Director A,Writer B,Actor D,USA,199489987,1643780159,Paramount,125
+Movie531,G,Crime,1988,6.8,1492084,Director D,Writer A,Actor A,USA,177421004,2213760062,Disney,162
+Movie532,PG-13,Crime,2010,6.8,1369859,Director B,Writer A,Actor A,USA,180906927,2637435430,Paramount,154
+Movie533,PG-13,Drama,2005,7.2,1495202,Director B,Writer A,Actor B,USA,86023275,2302475405,Marvel,97
+Movie534,R,Crime,2009,5.4,1577700,Director C,Writer C,Actor A,USA,287345548,60743576,Warner Bros,126
+Movie535,PG-13,Drama,1994,7.5,1135257,Director A,Writer C,Actor A,USA,278377589,770470100,Paramount,146
+Movie536,PG,Animation,1982,9,1529427,Director D,Writer A,Actor B,USA,255971200,1531893970,Warner Bros,138
+Movie537,PG,Drama,1997,7.1,1005257,Director B,Writer B,Actor C,USA,210085196,1120863429,Warner Bros,153
+Movie538,PG,Animation,2000,5.8,746593,Director B,Writer B,Actor C,USA,7741619,967326969,Marvel,165
+Movie539,PG,Animation,1992,8.8,1875894,Director D,Writer C,Actor B,USA,61653976,638361589,Warner Bros,175
+Movie540,R,Drama,2014,9,1232349,Director C,Writer A,Actor B,USA,116855682,2373471887,Disney,166
+Movie541,PG,Animation,2010,8.7,1476043,Director B,Writer C,Actor A,USA,138248945,2944126143,Marvel,114
+Movie542,PG-13,Action,2004,8.3,893527,Director C,Writer A,Actor C,USA,52221468,237594610,Disney,89
+Movie543,G,Comedy,1996,5.6,1540720,Director A,Writer C,Actor A,USA,134439782,1998428920,Marvel,137
+Movie544,G,Action,2001,9.1,1993361,Director D,Writer B,Actor B,USA,91667124,1426626649,Marvel,108
+Movie545,R,Comedy,1994,5.5,1467358,Director C,Writer C,Actor B,USA,44481288,1038099509,Paramount,143
+Movie546,PG,Animation,1983,7.9,489960,Director A,Writer A,Actor D,USA,1479532,1917756249,Paramount,131
+Movie547,PG-13,Drama,2013,9.3,387279,Director C,Writer A,Actor B,USA,46097854,1660473140,Warner Bros,89
+Movie548,PG,Crime,2006,6.7,1507135,Director D,Writer B,Actor B,USA,21494292,606160279,Marvel,176
+Movie549,PG,Action,2005,9,417328,Director D,Writer C,Actor D,USA,155442087,255863134,Universal,168
+Movie550,PG,Action,2006,7.6,1223704,Director D,Writer C,Actor D,USA,274773313,2070228119,Disney,99
+Movie551,R,Drama,1983,8.9,908678,Director D,Writer B,Actor B,USA,37070650,1775676925,Marvel,164
+Movie552,PG-13,Animation,1992,7.8,898101,Director B,Writer C,Actor B,USA,17613568,1261859677,Universal,104
+Movie553,R,Comedy,2019,6.8,1569801,Director C,Writer C,Actor A,USA,299009073,2703833694,Paramount,144
+Movie554,PG,Romance,2004,5.2,961139,Director C,Writer A,Actor C,USA,174081980,172733186,Universal,100
+Movie555,PG-13,Action,2022,7.5,199742,Director D,Writer C,Actor A,USA,146043666,2260759453,Universal,98
+Movie556,G,Romance,1985,9.2,1892025,Director A,Writer A,Actor D,USA,220927487,2102043999,Disney,141
+Movie557,PG-13,Animation,1991,5.7,1547746,Director A,Writer B,Actor C,USA,225335914,1945175975,Warner Bros,151
+Movie558,R,Crime,2013,6.3,1223502,Director D,Writer C,Actor A,USA,45711042,2813212448,Universal,126
+Movie559,PG-13,Romance,2015,5.8,411261,Director B,Writer C,Actor C,USA,56786492,1438071565,Disney,121
+Movie560,PG-13,Sci-Fi,2004,6.3,697595,Director B,Writer A,Actor D,USA,265076632,568033583,Marvel,174
+Movie561,PG-13,Animation,2013,6.6,1808264,Director C,Writer C,Actor D,USA,236962472,1010097742,Universal,88
+Movie562,G,Romance,1982,8.8,1933108,Director C,Writer C,Actor D,USA,125943223,2835075412,Universal,110
+Movie563,R,Crime,1988,5.5,601793,Director B,Writer B,Actor D,USA,87270524,1859374601,Disney,163
+Movie564,G,Drama,2009,5.4,1431996,Director C,Writer A,Actor C,USA,236560501,2099787032,Warner Bros,171
+Movie565,PG-13,Comedy,2011,5.9,1696452,Director C,Writer C,Actor A,USA,235954896,1151401772,Disney,101
+Movie566,G,Drama,2019,6.5,649374,Director C,Writer A,Actor D,USA,14807692,2626210026,Universal,99
+Movie567,PG-13,Romance,2014,5.2,1096267,Director B,Writer A,Actor C,USA,167513749,2167590481,Disney,111
+Movie568,PG,Comedy,2019,5.9,1292973,Director D,Writer C,Actor A,USA,27018498,2904480343,Disney,128
+Movie569,R,Animation,1988,7.7,1130227,Director B,Writer C,Actor D,USA,262877697,405728046,Warner Bros,152
+Movie570,R,Romance,1998,7.6,54573,Director C,Writer A,Actor B,USA,114089490,1058233290,Marvel,144
+Movie571,PG-13,Crime,1991,9.2,1750137,Director D,Writer B,Actor B,USA,114325536,915221999,Universal,136
+Movie572,PG-13,Comedy,1982,6.1,1854285,Director A,Writer A,Actor D,USA,155726342,2398168962,Universal,125
+Movie573,R,Romance,1990,6.8,250172,Director B,Writer C,Actor C,USA,251178201,2590842802,Marvel,153
+Movie574,R,Sci-Fi,1987,8.3,178703,Director A,Writer C,Actor D,USA,179237489,635775933,Paramount,139
+Movie575,R,Comedy,2016,5.7,643815,Director B,Writer C,Actor A,USA,280497024,2316546105,Marvel,157
+Movie576,PG-13,Comedy,1988,5.2,512251,Director B,Writer B,Actor B,USA,240043920,43731817,Paramount,99
+Movie577,G,Action,2018,8.2,160327,Director C,Writer B,Actor A,USA,93246191,1674345871,Disney,143
+Movie578,PG,Comedy,1980,5.8,1099819,Director D,Writer C,Actor D,USA,205180008,578843231,Marvel,154
+Movie579,PG-13,Drama,2001,8.3,282677,Director B,Writer A,Actor B,USA,208505119,765287317,Universal,143
+Movie580,PG,Animation,1998,7.1,1892245,Director B,Writer A,Actor D,USA,77120209,1881035680,Paramount,176
+Movie581,G,Crime,1997,7.1,1405646,Director D,Writer A,Actor A,USA,85972863,193910284,Marvel,98
+Movie582,G,Crime,2010,5.2,7194,Director D,Writer C,Actor C,USA,5932326,2231946528,Marvel,121
+Movie583,R,Comedy,2018,5.5,1253246,Director B,Writer C,Actor A,USA,143723609,1776154509,Paramount,99
+Movie584,R,Comedy,2019,6.5,1296190,Director A,Writer B,Actor B,USA,291920177,1011241611,Paramount,144
+Movie585,PG-13,Comedy,1992,8.2,1469487,Director D,Writer C,Actor A,USA,174220889,1063887290,Warner Bros,90
+Movie586,R,Animation,2013,7.7,360918,Director B,Writer A,Actor C,USA,23357240,1037986007,Disney,81
+Movie587,PG,Romance,2002,7.6,987673,Director A,Writer C,Actor A,USA,26387866,621279052,Paramount,126
+Movie588,PG-13,Action,1995,8.1,236665,Director A,Writer C,Actor A,USA,208833664,1537053559,Marvel,130
+Movie589,R,Action,1983,7.9,1682094,Director D,Writer C,Actor C,USA,230215019,1902349496,Universal,130
+Movie590,R,Action,2018,8.8,1515422,Director A,Writer C,Actor C,USA,259180167,971330680,Paramount,149
+Movie591,G,Drama,2013,5.3,1082868,Director D,Writer C,Actor D,USA,196997359,375300203,Paramount,165
+Movie592,G,Sci-Fi,2020,5.7,1594645,Director D,Writer C,Actor C,USA,265022530,2848785568,Warner Bros,153
+Movie593,R,Romance,2008,7.8,1859803,Director C,Writer B,Actor A,USA,299151612,2821632303,Paramount,137
+Movie594,R,Romance,2010,9.4,405874,Director D,Writer B,Actor A,USA,124557112,2098610613,Paramount,135
+Movie595,G,Romance,2015,6.1,1882820,Director B,Writer C,Actor B,USA,279265293,257462754,Warner Bros,98
+Movie596,PG-13,Animation,2013,6.4,1119591,Director A,Writer B,Actor B,USA,104433989,1192434228,Paramount,109
+Movie597,PG-13,Comedy,1984,9,395130,Director B,Writer C,Actor B,USA,178602194,529389698,Paramount,118
+Movie598,G,Crime,2003,6.5,1984761,Director D,Writer B,Actor B,USA,209874228,506946928,Paramount,147
+Movie599,R,Romance,1997,7.3,1919716,Director B,Writer C,Actor C,USA,236029542,471056381,Warner Bros,178
+Movie600,PG-13,Sci-Fi,2000,9.4,680814,Director D,Writer B,Actor A,USA,95026660,2965112206,Marvel,88
+Movie601,PG,Sci-Fi,1986,7.3,1830917,Director C,Writer C,Actor D,USA,166950789,2135850168,Warner Bros,144
+Movie602,R,Crime,2016,5.1,1476469,Director B,Writer C,Actor B,USA,294224902,1838841700,Disney,130
+Movie603,PG,Comedy,2017,9.5,356252,Director C,Writer B,Actor D,USA,270202480,778879368,Universal,106
+Movie604,PG-13,Animation,2007,8.9,1855729,Director C,Writer C,Actor D,USA,102081948,1959052783,Paramount,143
+Movie605,PG-13,Crime,2023,6.1,394541,Director B,Writer C,Actor C,USA,227829944,524396151,Disney,103
+Movie606,PG-13,Animation,2019,5.3,1142831,Director A,Writer A,Actor C,USA,190575629,1731972894,Marvel,135
+Movie607,R,Comedy,1985,9.3,1815309,Director D,Writer A,Actor D,USA,90265002,2250503222,Paramount,123
+Movie608,PG,Crime,2018,8.6,1165955,Director B,Writer B,Actor D,USA,52897403,466855133,Warner Bros,175
+Movie609,R,Crime,1983,7.7,1535,Director B,Writer B,Actor A,USA,293563836,39277855,Warner Bros,88
+Movie610,PG-13,Comedy,2020,6.1,494718,Director C,Writer B,Actor B,USA,7110906,1037066675,Warner Bros,93
+Movie611,G,Comedy,2004,5.6,812089,Director A,Writer B,Actor C,USA,61322518,2981909817,Marvel,127
+Movie612,G,Action,1995,6.1,1606998,Director C,Writer B,Actor A,USA,242089285,1230104714,Marvel,120
+Movie613,G,Comedy,1997,5.6,1364367,Director A,Writer A,Actor D,USA,279531191,1162807812,Warner Bros,120
+Movie614,R,Animation,2013,8.7,1247953,Director A,Writer B,Actor C,USA,187157437,701975043,Marvel,94
+Movie615,PG-13,Romance,1999,5.4,725323,Director C,Writer A,Actor B,USA,226399411,1676880196,Disney,116
+Movie616,PG,Sci-Fi,2015,7.7,1552812,Director A,Writer A,Actor D,USA,48607250,2668719261,Warner Bros,147
+Movie617,R,Animation,1991,9.2,1462511,Director D,Writer A,Actor C,USA,205737673,66067756,Universal,169
+Movie618,PG-13,Action,2022,6.7,569809,Director B,Writer C,Actor B,USA,191359041,71065831,Universal,142
+Movie619,G,Drama,1989,7.3,1601109,Director C,Writer B,Actor B,USA,87280275,2338008733,Warner Bros,118
+Movie620,R,Action,2015,8.3,1158402,Director D,Writer B,Actor A,USA,226710592,1047905513,Disney,101
+Movie621,R,Action,1983,7.4,1911881,Director D,Writer C,Actor D,USA,103763375,2252393527,Marvel,83
+Movie622,PG-13,Comedy,1992,8.7,1216461,Director C,Writer A,Actor C,USA,214058906,1780821385,Universal,118
+Movie623,PG,Sci-Fi,2018,6.7,879934,Director D,Writer C,Actor C,USA,17580921,2355307527,Paramount,129
+Movie624,R,Romance,2007,8.2,1004884,Director A,Writer A,Actor B,USA,286058841,1351210992,Marvel,177
+Movie625,G,Comedy,2011,6.2,44508,Director C,Writer A,Actor A,USA,32164282,769658926,Disney,171
+Movie626,G,Crime,2023,8.9,405525,Director B,Writer A,Actor B,USA,11893941,1301707310,Warner Bros,114
+Movie627,G,Crime,1980,7.6,658580,Director C,Writer B,Actor C,USA,224072035,215560154,Marvel,125
+Movie628,PG,Crime,1985,8,315007,Director C,Writer C,Actor D,USA,41625078,2827863353,Universal,136
+Movie629,PG-13,Action,1986,6.4,1267455,Director D,Writer A,Actor D,USA,297360934,1130128072,Warner Bros,117
+Movie630,R,Animation,2006,8.9,1624749,Director B,Writer A,Actor B,USA,23106478,2658487500,Marvel,130
+Movie631,PG,Romance,1986,8,965223,Director A,Writer A,Actor C,USA,70238492,2082461199,Disney,175
+Movie632,R,Drama,2005,5.9,1126615,Director A,Writer A,Actor D,USA,210301101,1348729892,Warner Bros,135
+Movie633,PG,Action,2019,8.4,1615372,Director A,Writer A,Actor D,USA,76384204,2756454145,Warner Bros,109
+Movie634,PG-13,Sci-Fi,2004,6.5,1261590,Director B,Writer B,Actor B,USA,109580437,2811695073,Warner Bros,151
+Movie635,R,Sci-Fi,2007,5.8,1440332,Director C,Writer C,Actor B,USA,218018418,2527547822,Paramount,110
+Movie636,G,Comedy,1985,7.3,894305,Director D,Writer A,Actor D,USA,142026684,80001622,Paramount,96
+Movie637,R,Action,2022,7.4,1614429,Director D,Writer C,Actor A,USA,246130750,93281675,Paramount,130
+Movie638,G,Crime,2018,6.9,104268,Director A,Writer B,Actor B,USA,128976461,1340353325,Marvel,115
+Movie639,G,Sci-Fi,1986,8.1,596539,Director D,Writer A,Actor B,USA,175720465,734355485,Disney,117
+Movie640,PG-13,Crime,2015,7.7,1853651,Director C,Writer A,Actor A,USA,111519090,1604840362,Disney,81
+Movie641,G,Sci-Fi,2011,9.3,1488796,Director B,Writer A,Actor B,USA,147491120,2035156240,Warner Bros,99
+Movie642,PG-13,Comedy,2021,6,1603657,Director B,Writer C,Actor C,USA,137553176,1043881479,Disney,101
+Movie643,PG-13,Romance,1980,5.1,250473,Director A,Writer B,Actor C,USA,131947308,586923517,Universal,142
+Movie644,R,Animation,2004,6.6,931226,Director C,Writer C,Actor B,USA,171876757,753605880,Paramount,87
+Movie645,PG-13,Comedy,1988,5.6,1305691,Director B,Writer B,Actor A,USA,104736841,783844697,Paramount,80
+Movie646,R,Action,2004,6.4,724078,Director D,Writer A,Actor A,USA,185408411,1890702255,Disney,151
+Movie647,PG,Drama,2007,5.5,1407646,Director B,Writer C,Actor A,USA,117208565,881110227,Paramount,160
+Movie648,G,Sci-Fi,1990,5.4,549297,Director A,Writer B,Actor D,USA,126735125,2195398598,Marvel,179
+Movie649,PG-13,Animation,1995,8.1,1688147,Director B,Writer C,Actor A,USA,229614525,1548830837,Universal,154
+Movie650,G,Comedy,1988,6.1,804614,Director C,Writer A,Actor D,USA,35842523,1261093908,Marvel,124
+Movie651,PG-13,Action,1983,5.8,347243,Director B,Writer C,Actor D,USA,179516486,1876653671,Warner Bros,142
+Movie652,PG,Action,2011,6.1,114234,Director A,Writer C,Actor D,USA,213764328,1792527667,Warner Bros,160
+Movie653,R,Drama,1982,9,1916393,Director C,Writer B,Actor C,USA,63555726,988479081,Paramount,130
+Movie654,PG-13,Animation,1999,8.2,1008040,Director A,Writer C,Actor A,USA,265805338,2891060579,Universal,119
+Movie655,R,Comedy,1984,7.5,1086955,Director C,Writer C,Actor A,USA,143533233,2460394734,Paramount,157
+Movie656,R,Comedy,2011,8.2,1881767,Director D,Writer C,Actor A,USA,60217162,1751490709,Warner Bros,101
+Movie657,PG,Drama,2007,7.1,1681562,Director A,Writer A,Actor D,USA,89013162,2834738284,Warner Bros,100
+Movie658,PG-13,Drama,2017,7.7,1945144,Director A,Writer B,Actor A,USA,33962876,2356426544,Marvel,125
+Movie659,R,Comedy,1984,6.5,1596211,Director A,Writer B,Actor A,USA,284514059,1326565322,Marvel,117
+Movie660,R,Animation,2022,8.9,430435,Director A,Writer C,Actor C,USA,238300741,1352821064,Universal,143
+Movie661,PG-13,Action,2002,8.8,1024889,Director B,Writer A,Actor C,USA,271370130,905230630,Warner Bros,134
+Movie662,PG-13,Animation,2001,6.4,1735853,Director C,Writer A,Actor D,USA,267851082,333291087,Universal,91
+Movie663,PG-13,Drama,1991,9.1,1249878,Director C,Writer A,Actor C,USA,85503480,2183063772,Disney,165
+Movie664,PG-13,Romance,2014,5.9,581047,Director D,Writer B,Actor C,USA,147103478,2223772393,Disney,152
+Movie665,G,Drama,1981,9.4,1794141,Director D,Writer B,Actor D,USA,198724395,935318521,Universal,121
+Movie666,PG,Sci-Fi,1992,7,769048,Director B,Writer A,Actor B,USA,242869714,419544833,Disney,94
+Movie667,G,Crime,2000,7.8,1007837,Director A,Writer A,Actor C,USA,243270076,655841630,Warner Bros,106
+Movie668,G,Romance,1987,6.3,1209237,Director D,Writer C,Actor A,USA,260642771,2772913435,Disney,118
+Movie669,PG-13,Crime,2023,5.8,314293,Director A,Writer A,Actor B,USA,166309207,84144792,Universal,108
+Movie670,R,Romance,2013,7,1629613,Director C,Writer C,Actor A,USA,290637334,432841243,Paramount,165
+Movie671,R,Animation,2000,6.5,141907,Director C,Writer C,Actor D,USA,101101337,1032707636,Universal,159
+Movie672,PG,Animation,1986,7.8,1049536,Director D,Writer C,Actor D,USA,163577280,2957635113,Marvel,170
+Movie673,PG-13,Romance,2023,7.5,1953987,Director D,Writer C,Actor A,USA,124357743,1470554119,Disney,122
+Movie674,PG-13,Drama,2012,8.7,1652116,Director A,Writer A,Actor A,USA,204438194,2551571235,Paramount,125
+Movie675,G,Sci-Fi,2005,5.8,371343,Director C,Writer B,Actor B,USA,75276718,1969614882,Marvel,99
+Movie676,PG-13,Drama,2011,9,619645,Director D,Writer C,Actor A,USA,103168456,1170119278,Warner Bros,107
+Movie677,R,Sci-Fi,1999,7.9,1948644,Director C,Writer A,Actor D,USA,28791387,529092301,Marvel,103
+Movie678,PG-13,Romance,2013,6.2,1305995,Director A,Writer C,Actor B,USA,220633897,182709984,Universal,109
+Movie679,PG,Drama,1993,8.5,488805,Director D,Writer B,Actor D,USA,282245829,2061993113,Universal,103
+Movie680,G,Drama,2020,7.6,1548742,Director B,Writer C,Actor D,USA,55288301,2767308971,Warner Bros,164
+Movie681,R,Animation,2005,8.5,1270830,Director B,Writer B,Actor B,USA,226142080,1863685053,Warner Bros,176
+Movie682,G,Animation,2019,7.9,708923,Director B,Writer C,Actor B,USA,219866320,2160845633,Paramount,167
+Movie683,R,Animation,2018,7.7,1117291,Director C,Writer A,Actor B,USA,40257722,2067467214,Paramount,114
+Movie684,G,Romance,2013,8.1,1422861,Director C,Writer A,Actor A,USA,183340241,947454202,Paramount,133
+Movie685,PG,Animation,1987,9.2,827812,Director D,Writer C,Actor A,USA,173543723,1128386567,Disney,180
+Movie686,PG-13,Comedy,2015,7.2,1664354,Director A,Writer B,Actor C,USA,44611201,1967460078,Paramount,177
+Movie687,R,Animation,1996,7.4,320888,Director C,Writer C,Actor C,USA,120817118,1348174402,Paramount,98
+Movie688,R,Crime,1981,5,139642,Director C,Writer C,Actor D,USA,40590875,44982016,Paramount,116
+Movie689,PG-13,Drama,2012,6.6,436777,Director B,Writer C,Actor B,USA,163918203,111282971,Disney,172
+Movie690,PG,Romance,1996,6.1,790778,Director B,Writer B,Actor D,USA,105194034,917927052,Universal,137
+Movie691,R,Crime,2009,5.4,1631013,Director B,Writer A,Actor B,USA,8424704,2087369161,Warner Bros,117
+Movie692,PG,Crime,1999,7.7,1502478,Director A,Writer B,Actor B,USA,183128646,2004992083,Disney,108
+Movie693,R,Comedy,1980,6.9,230528,Director A,Writer B,Actor C,USA,246805662,1729903453,Universal,85
+Movie694,PG-13,Sci-Fi,2020,8.9,593217,Director A,Writer B,Actor D,USA,295538785,1078937689,Disney,94
+Movie695,G,Action,1992,6.5,97812,Director C,Writer A,Actor A,USA,23411423,239610926,Warner Bros,158
+Movie696,PG-13,Crime,2023,6.2,714247,Director C,Writer B,Actor C,USA,229910610,2560728237,Warner Bros,143
+Movie697,PG-13,Sci-Fi,2011,9.1,438238,Director A,Writer A,Actor A,USA,176863508,1918084892,Warner Bros,163
+Movie698,G,Comedy,1991,7.9,1192165,Director B,Writer C,Actor B,USA,258111590,2315439573,Paramount,140
+Movie699,G,Crime,1983,8.2,377055,Director B,Writer C,Actor D,USA,254803859,1272377195,Paramount,130
+Movie700,PG-13,Drama,1993,8.5,1678476,Director A,Writer B,Actor A,USA,293402538,2410744798,Disney,156
+Movie701,PG,Sci-Fi,1988,8.2,1772257,Director B,Writer B,Actor D,USA,141797529,922200675,Universal,175
+Movie702,PG,Romance,2012,6.8,994584,Director D,Writer A,Actor A,USA,282440734,167072134,Warner Bros,112
+Movie703,PG-13,Romance,1991,5.3,184931,Director A,Writer A,Actor C,USA,55281891,2412507275,Disney,119
+Movie704,PG,Sci-Fi,2020,5.1,1024152,Director A,Writer B,Actor D,USA,197099965,1864348914,Warner Bros,168
+Movie705,G,Action,2012,5.7,1464651,Director B,Writer C,Actor C,USA,257474350,1804884739,Warner Bros,176
+Movie706,G,Crime,2002,8.8,151857,Director B,Writer B,Actor C,USA,61976516,42947277,Disney,111
+Movie707,PG-13,Romance,2010,7.5,824529,Director D,Writer A,Actor C,USA,90673125,1536105830,Marvel,89
+Movie708,R,Sci-Fi,1982,7,1033388,Director D,Writer C,Actor B,USA,202330599,1215845641,Marvel,123
+Movie709,G,Action,1991,9,127912,Director B,Writer A,Actor A,USA,217307202,1048446210,Disney,166
+Movie710,R,Comedy,2007,7.6,1810483,Director B,Writer C,Actor C,USA,88462094,1412141735,Paramount,83
+Movie711,R,Crime,1988,9.3,1443753,Director D,Writer B,Actor D,USA,202693733,1732016029,Disney,155
+Movie712,PG,Drama,2021,6.9,507361,Director A,Writer B,Actor D,USA,187742878,2327253964,Universal,171
+Movie713,R,Animation,1995,8.9,1807409,Director C,Writer B,Actor C,USA,154313688,1668112550,Warner Bros,87
+Movie714,R,Romance,1990,6.8,273604,Director D,Writer C,Actor D,USA,248648331,1075441011,Marvel,150
+Movie715,R,Crime,2016,6.7,1192296,Director D,Writer C,Actor C,USA,40882557,850105054,Disney,138
+Movie716,G,Sci-Fi,2006,8.3,1777612,Director D,Writer A,Actor A,USA,240854654,1927598808,Universal,139
+Movie717,PG-13,Romance,1990,5.4,477031,Director A,Writer C,Actor A,USA,206984857,171503263,Marvel,120
+Movie718,R,Comedy,2019,5.5,306346,Director C,Writer A,Actor A,USA,198138586,21855444,Warner Bros,132
+Movie719,R,Drama,1986,5,1152892,Director D,Writer A,Actor D,USA,299781167,1209280778,Marvel,175
+Movie720,PG-13,Action,2004,6.1,711457,Director C,Writer B,Actor C,USA,232542592,2533865375,Paramount,105
+Movie721,PG,Drama,1990,6.2,1227634,Director D,Writer A,Actor C,USA,270685350,372093141,Paramount,170
+Movie722,G,Drama,1999,6.1,393983,Director D,Writer C,Actor D,USA,191956971,1158772781,Warner Bros,165
+Movie723,G,Sci-Fi,1980,9.1,54176,Director A,Writer A,Actor A,USA,158187619,1228085839,Paramount,141
+Movie724,R,Sci-Fi,2004,6.5,1958048,Director C,Writer C,Actor A,USA,22918264,669825087,Universal,169
+Movie725,R,Drama,1991,9.2,1571487,Director A,Writer B,Actor B,USA,208896867,2612005862,Warner Bros,142
+Movie726,PG,Romance,1994,9.1,1541303,Director A,Writer C,Actor A,USA,187135061,2542750603,Warner Bros,134
+Movie727,PG,Drama,1985,6.8,703050,Director A,Writer B,Actor C,USA,194357177,2292038202,Marvel,118
+Movie728,R,Animation,2019,5.3,28073,Director B,Writer A,Actor C,USA,243535535,1968039909,Paramount,141
+Movie729,PG,Crime,1992,6.3,1781219,Director D,Writer B,Actor D,USA,31231783,1058605119,Disney,174
+Movie730,PG,Comedy,2020,5.8,472570,Director B,Writer B,Actor D,USA,163727194,1355826999,Marvel,124
+Movie731,G,Crime,2007,8.4,829817,Director B,Writer B,Actor C,USA,141330310,610559505,Marvel,97
+Movie732,G,Comedy,1986,9.3,530859,Director B,Writer B,Actor C,USA,92697071,2931145211,Marvel,108
+Movie733,G,Drama,2011,8,484297,Director C,Writer C,Actor C,USA,173218506,1923199236,Warner Bros,127
+Movie734,G,Comedy,1990,6.4,514982,Director C,Writer B,Actor B,USA,165687774,1154400612,Paramount,122
+Movie735,PG-13,Action,2023,5.6,1550575,Director C,Writer A,Actor A,USA,183082255,2476655438,Marvel,153
+Movie736,R,Sci-Fi,2016,8.5,1852569,Director C,Writer C,Actor A,USA,117369097,1649895075,Warner Bros,92
+Movie737,PG,Crime,2010,5.7,1893038,Director B,Writer B,Actor A,USA,135026213,623306408,Marvel,150
+Movie738,PG-13,Action,1984,7.1,922028,Director C,Writer B,Actor D,USA,259491302,662043650,Disney,124
+Movie739,PG-13,Sci-Fi,1986,9.5,227719,Director C,Writer B,Actor D,USA,179716383,2055839919,Marvel,146
+Movie740,PG,Romance,1985,5.1,1796762,Director A,Writer A,Actor C,USA,288555841,1016470375,Universal,160
+Movie741,PG,Romance,2019,8.1,1132085,Director B,Writer B,Actor C,USA,246028337,900519309,Warner Bros,174
+Movie742,PG-13,Drama,2010,6.8,1004259,Director C,Writer A,Actor D,USA,143562805,1700801422,Universal,97
+Movie743,PG-13,Comedy,2018,5.2,1355452,Director A,Writer C,Actor A,USA,195469030,2983110744,Paramount,101
+Movie744,G,Drama,2008,7.8,511643,Director D,Writer A,Actor B,USA,207694230,38508047,Paramount,121
+Movie745,PG-13,Sci-Fi,2015,8.8,1508068,Director D,Writer B,Actor C,USA,261489584,1048238056,Universal,116
+Movie746,PG-13,Crime,2005,6.3,1681699,Director B,Writer B,Actor C,USA,2908868,1743967464,Warner Bros,117
+Movie747,PG,Crime,1989,8.5,1789433,Director A,Writer C,Actor D,USA,59551328,1772067991,Disney,150
+Movie748,R,Crime,1993,5.8,1320134,Director A,Writer A,Actor B,USA,287660239,561525066,Paramount,162
+Movie749,PG-13,Drama,2015,8.3,233504,Director D,Writer C,Actor A,USA,30143972,329641731,Warner Bros,132
+Movie750,PG-13,Sci-Fi,1990,7.5,1843586,Director C,Writer C,Actor C,USA,192269711,1152458835,Universal,125
+Movie751,R,Comedy,2015,9.5,783890,Director A,Writer A,Actor D,USA,81785453,2798677254,Marvel,170
+Movie752,R,Crime,2004,6,418807,Director B,Writer A,Actor A,USA,92861272,1736294986,Warner Bros,81
+Movie753,PG-13,Action,2008,7.2,439016,Director B,Writer B,Actor C,USA,256764192,793393178,Paramount,123
+Movie754,PG,Comedy,2010,5.2,776605,Director C,Writer C,Actor A,USA,118786270,1639588493,Disney,106
+Movie755,PG-13,Action,1990,5.9,936295,Director C,Writer C,Actor C,USA,110599793,1330688620,Disney,174
+Movie756,R,Sci-Fi,1998,7.1,1969325,Director A,Writer C,Actor A,USA,266459830,1229891008,Universal,90
+Movie757,R,Animation,1995,5.2,239013,Director C,Writer B,Actor D,USA,285227279,1593572886,Universal,88
+Movie758,PG,Drama,1987,5.3,886980,Director D,Writer B,Actor B,USA,239694196,422147708,Disney,174
+Movie759,PG,Romance,2009,5.6,1184971,Director A,Writer A,Actor A,USA,109194372,168516094,Paramount,144
+Movie760,PG,Drama,2004,7.1,1491525,Director A,Writer A,Actor B,USA,132309241,2460678922,Marvel,117
+Movie761,PG,Animation,1995,8.2,614029,Director A,Writer C,Actor A,USA,125697389,655424763,Universal,98
+Movie762,PG-13,Comedy,1984,5.2,1240808,Director A,Writer C,Actor A,USA,36613819,1364204210,Disney,89
+Movie763,PG,Action,2011,7.2,1905051,Director B,Writer B,Actor A,USA,200489359,2258118064,Warner Bros,168
+Movie764,R,Sci-Fi,1992,6,865182,Director D,Writer C,Actor A,USA,297498056,2554538395,Paramount,86
+Movie765,PG-13,Romance,1990,8.2,631881,Director C,Writer A,Actor D,USA,196610411,214539627,Disney,152
+Movie766,PG,Crime,1980,8.3,859639,Director D,Writer B,Actor D,USA,38744718,2136700245,Universal,141
+Movie767,PG-13,Drama,1985,6.8,250491,Director D,Writer B,Actor B,USA,179800594,1621182951,Paramount,104
+Movie768,PG-13,Drama,1994,9.2,1306997,Director B,Writer B,Actor A,USA,230349357,1590899562,Disney,170
+Movie769,R,Comedy,1991,8.3,1460394,Director A,Writer B,Actor C,USA,217053003,1898298374,Disney,164
+Movie770,PG-13,Animation,2014,6,912562,Director D,Writer C,Actor B,USA,168470787,1438263060,Disney,172
+Movie771,PG,Sci-Fi,1989,7.4,1554120,Director D,Writer C,Actor A,USA,133333331,556761674,Universal,110
+Movie772,G,Drama,2012,5.6,876419,Director B,Writer B,Actor D,USA,217069040,1460471581,Marvel,180
+Movie773,G,Animation,1987,7.4,153835,Director A,Writer B,Actor B,USA,248233579,503899267,Warner Bros,141
+Movie774,PG-13,Sci-Fi,1984,6.3,648522,Director A,Writer C,Actor A,USA,127332212,401959808,Disney,92
+Movie775,R,Crime,2020,9.1,1843449,Director D,Writer B,Actor C,USA,255344078,2930933290,Paramount,85
+Movie776,R,Comedy,2012,5.4,798202,Director A,Writer C,Actor A,USA,40965767,2900999403,Warner Bros,118
+Movie777,PG-13,Drama,1997,5,880847,Director D,Writer A,Actor D,USA,41566814,2506540203,Paramount,122
+Movie778,R,Romance,1991,6.3,1318121,Director C,Writer C,Actor A,USA,30552889,1480945235,Paramount,103
+Movie779,G,Crime,2002,6.9,1229805,Director D,Writer B,Actor B,USA,217559615,2025480347,Universal,151
+Movie780,G,Comedy,1989,8.1,1410040,Director D,Writer C,Actor D,USA,283374906,2168081758,Disney,172
+Movie781,R,Drama,1996,7.6,1418442,Director C,Writer A,Actor D,USA,262464212,141755321,Paramount,127
+Movie782,G,Crime,2023,5,1518441,Director D,Writer A,Actor B,USA,66119606,1655348287,Marvel,90
+Movie783,G,Animation,1996,7.3,644899,Director A,Writer A,Actor D,USA,47358160,1740861842,Marvel,105
+Movie784,R,Comedy,2017,8.4,1141477,Director C,Writer A,Actor C,USA,189190416,2398410140,Disney,151
+Movie785,G,Comedy,2019,9.2,793711,Director B,Writer B,Actor B,USA,80636434,141881766,Warner Bros,106
+Movie786,PG-13,Action,1981,7.3,499190,Director A,Writer A,Actor D,USA,106861710,666367546,Paramount,109
+Movie787,PG-13,Romance,1983,7.6,1981036,Director C,Writer C,Actor D,USA,6280611,682829322,Warner Bros,165
+Movie788,PG,Animation,1998,8,617746,Director A,Writer A,Actor A,USA,142787142,1120646192,Marvel,116
+Movie789,G,Comedy,1981,7.3,1441627,Director C,Writer A,Actor A,USA,242441507,957118640,Disney,157
+Movie790,PG-13,Comedy,2009,5.4,368243,Director A,Writer A,Actor C,USA,106177701,1531838430,Disney,179
+Movie791,PG,Crime,2015,8.7,951622,Director B,Writer A,Actor C,USA,25881240,1353075501,Warner Bros,163
+Movie792,PG,Action,1994,5.2,1447230,Director C,Writer B,Actor B,USA,147727021,389650985,Paramount,127
+Movie793,G,Romance,1998,6,1605350,Director A,Writer B,Actor B,USA,161089012,198452802,Warner Bros,153
+Movie794,PG,Romance,1983,9.4,1050718,Director D,Writer C,Actor C,USA,40155631,2252912953,Marvel,143
+Movie795,R,Drama,1988,6.4,1094630,Director C,Writer B,Actor B,USA,145790440,2751520560,Paramount,119
+Movie796,G,Comedy,1993,7.2,468153,Director A,Writer A,Actor D,USA,171031941,293755304,Warner Bros,128
+Movie797,G,Comedy,1980,7.6,1018376,Director A,Writer C,Actor D,USA,83403720,718936764,Disney,93
+Movie798,G,Animation,1983,5.7,307375,Director B,Writer A,Actor D,USA,21569021,1673372710,Warner Bros,155
+Movie799,G,Action,2014,6.8,1802994,Director A,Writer C,Actor B,USA,192803473,2114832124,Universal,127
+Movie800,R,Animation,1999,5.1,771054,Director C,Writer B,Actor C,USA,65026258,995474988,Universal,108
+Movie801,PG,Action,1985,6.2,1774507,Director A,Writer B,Actor B,USA,45846490,1588418287,Universal,99
+Movie802,PG,Animation,1996,5.7,378460,Director A,Writer B,Actor C,USA,149723045,859304467,Marvel,128
+Movie803,G,Action,1994,5.5,1577021,Director C,Writer C,Actor A,USA,255892147,261642788,Disney,171
+Movie804,PG,Romance,2001,6.2,1670172,Director A,Writer A,Actor A,USA,58866535,1273571947,Universal,171
+Movie805,PG-13,Action,2000,7.1,1014490,Director A,Writer A,Actor A,USA,178760209,1979855003,Paramount,109
+Movie806,G,Action,1999,6.3,349739,Director D,Writer C,Actor B,USA,121813746,2302518627,Universal,146
+Movie807,G,Romance,1999,5.3,934904,Director B,Writer C,Actor D,USA,264621768,186275009,Paramount,140
+Movie808,PG,Comedy,2010,7,1018380,Director B,Writer C,Actor B,USA,103566856,2449743780,Disney,140
+Movie809,R,Animation,2010,5.8,559276,Director B,Writer B,Actor C,USA,10960693,171248741,Warner Bros,129
+Movie810,PG-13,Drama,1990,6.6,1311904,Director B,Writer B,Actor D,USA,108690718,1806399806,Marvel,97
+Movie811,R,Sci-Fi,2001,6.6,1295670,Director B,Writer A,Actor D,USA,215009194,2508718685,Disney,83
+Movie812,G,Romance,2011,5.2,1377404,Director C,Writer C,Actor C,USA,264978738,2259112085,Warner Bros,124
+Movie813,R,Romance,1997,6.3,935438,Director D,Writer A,Actor D,USA,79470158,2295028877,Warner Bros,143
+Movie814,G,Crime,1996,8.3,1624830,Director D,Writer A,Actor B,USA,258992032,256348122,Marvel,137
+Movie815,R,Romance,2008,6.8,1966850,Director D,Writer C,Actor D,USA,150434707,2383436894,Paramount,172
+Movie816,R,Drama,2006,8.7,5271,Director C,Writer C,Actor A,USA,8064136,2673946806,Marvel,176
+Movie817,R,Drama,1991,7.3,1830006,Director D,Writer C,Actor B,USA,272675085,274505100,Disney,164
+Movie818,PG-13,Crime,1983,6.5,34461,Director B,Writer B,Actor A,USA,104456877,538545327,Disney,84
+Movie819,PG,Romance,2019,9.1,336147,Director C,Writer A,Actor A,USA,171450059,1064013035,Paramount,166
+Movie820,PG-13,Comedy,1983,6.6,1121786,Director D,Writer A,Actor D,USA,145167109,1655691325,Warner Bros,151
+Movie821,PG,Sci-Fi,1985,7,613577,Director C,Writer C,Actor A,USA,278150669,2934847408,Universal,117
+Movie822,G,Romance,1986,6.7,194087,Director D,Writer B,Actor D,USA,172225136,2124916769,Paramount,148
+Movie823,R,Comedy,2023,7.8,1351186,Director C,Writer C,Actor A,USA,299732258,1205873081,Marvel,87
+Movie824,R,Comedy,2019,6.1,1827783,Director C,Writer B,Actor C,USA,154574967,1816051726,Marvel,130
+Movie825,PG,Comedy,1991,5.7,844931,Director A,Writer A,Actor C,USA,247072705,1626655201,Marvel,168
+Movie826,G,Comedy,2012,8.5,775274,Director D,Writer A,Actor D,USA,261248141,503696677,Universal,138
+Movie827,PG-13,Drama,1989,5.2,937877,Director C,Writer A,Actor C,USA,1970497,2902848906,Universal,180
+Movie828,PG,Animation,1986,6.1,639786,Director D,Writer B,Actor D,USA,100358242,167169100,Universal,162
+Movie829,R,Crime,1995,5.1,616985,Director A,Writer A,Actor D,USA,282072049,199686138,Paramount,143
+Movie830,PG,Sci-Fi,1995,5.7,790348,Director C,Writer B,Actor C,USA,191181553,2932378642,Paramount,173
+Movie831,R,Sci-Fi,2005,9.1,996850,Director A,Writer B,Actor D,USA,226120802,572601707,Warner Bros,139
+Movie832,PG-13,Comedy,1981,5.6,250143,Director C,Writer A,Actor B,USA,32126703,1885223414,Disney,159
+Movie833,PG,Sci-Fi,1991,5.2,168105,Director D,Writer B,Actor B,USA,290446244,289406029,Universal,126
+Movie834,G,Action,2004,7.8,291595,Director A,Writer B,Actor C,USA,108401588,1530317733,Marvel,113
+Movie835,R,Comedy,1998,7.8,1680553,Director D,Writer C,Actor A,USA,88521129,768907875,Warner Bros,89
+Movie836,PG,Action,1990,5.2,1633606,Director B,Writer A,Actor B,USA,178749087,636506810,Warner Bros,103
+Movie837,PG,Sci-Fi,2017,6.3,989176,Director D,Writer B,Actor A,USA,272819697,792499217,Warner Bros,139
+Movie838,R,Sci-Fi,1987,9.3,802969,Director B,Writer A,Actor B,USA,163366080,2972838859,Paramount,83
+Movie839,PG,Crime,2015,8.5,276608,Director B,Writer B,Actor D,USA,165525823,1996409297,Marvel,178
+Movie840,G,Action,1981,7.8,66573,Director C,Writer C,Actor D,USA,26938939,2387705892,Universal,85
+Movie841,PG,Action,1997,6.3,289944,Director D,Writer C,Actor B,USA,72852194,2065999885,Marvel,170
+Movie842,PG,Drama,2015,8.8,1932217,Director A,Writer B,Actor C,USA,237597512,911813450,Universal,120
+Movie843,R,Sci-Fi,2004,6.9,1291037,Director D,Writer A,Actor D,USA,264658574,230593634,Universal,100
+Movie844,R,Drama,2002,9.2,995405,Director D,Writer A,Actor B,USA,81530676,2953731943,Marvel,133
+Movie845,R,Drama,2002,7.9,128609,Director B,Writer C,Actor C,USA,9346927,378451110,Disney,85
+Movie846,R,Sci-Fi,1983,7.1,1523834,Director A,Writer C,Actor B,USA,295705160,1560862333,Marvel,149
+Movie847,PG-13,Action,2010,9.1,1875167,Director C,Writer A,Actor B,USA,160101580,60675540,Paramount,111
+Movie848,G,Romance,1987,5.3,1219659,Director D,Writer A,Actor D,USA,9438241,1029605383,Disney,103
+Movie849,PG-13,Comedy,1997,7.1,967078,Director A,Writer B,Actor B,USA,152351557,1561744318,Marvel,83
+Movie850,G,Crime,1987,7.6,1903543,Director D,Writer A,Actor D,USA,30618895,648483648,Paramount,157
+Movie851,PG-13,Comedy,1985,7,1387914,Director C,Writer C,Actor B,USA,140714282,2238806118,Marvel,158
+Movie852,PG,Romance,1985,8.3,1373616,Director C,Writer A,Actor C,USA,257418395,1079258337,Paramount,177
+Movie853,G,Animation,2015,7.7,183544,Director C,Writer C,Actor D,USA,12327494,1146884973,Universal,171
+Movie854,PG-13,Drama,2018,6.9,1255609,Director B,Writer C,Actor A,USA,284649331,1819809122,Disney,93
+Movie855,G,Drama,1990,8.4,693155,Director A,Writer A,Actor C,USA,165221505,1666259175,Disney,138
+Movie856,R,Romance,1999,5.4,987217,Director B,Writer C,Actor C,USA,290010194,2520517495,Warner Bros,150
+Movie857,PG-13,Crime,2001,6.5,1655233,Director A,Writer A,Actor D,USA,125059195,970548323,Warner Bros,131
+Movie858,PG-13,Sci-Fi,2022,7.3,1569839,Director C,Writer B,Actor B,USA,184181111,2972138802,Paramount,149
+Movie859,G,Action,2014,8.9,713376,Director A,Writer B,Actor C,USA,220725552,2819429276,Universal,133
+Movie860,R,Comedy,2021,7.3,174582,Director B,Writer C,Actor B,USA,250055719,181613887,Universal,88
+Movie861,R,Animation,1999,9.5,1514121,Director C,Writer A,Actor B,USA,170127468,947484343,Paramount,138
+Movie862,PG,Animation,1996,8,335322,Director B,Writer A,Actor A,USA,69122618,2471882152,Universal,170
+Movie863,G,Romance,2012,6.7,1481934,Director B,Writer A,Actor B,USA,204929573,1591943842,Disney,138
+Movie864,PG-13,Crime,1986,6.8,180012,Director B,Writer A,Actor A,USA,269210627,1917494224,Universal,169
+Movie865,PG,Action,2011,8.8,418720,Director B,Writer A,Actor C,USA,130419464,130572032,Paramount,168
+Movie866,G,Sci-Fi,2022,6.5,96063,Director D,Writer A,Actor B,USA,112954154,2733039063,Warner Bros,104
+Movie867,R,Sci-Fi,1990,6.6,496789,Director B,Writer C,Actor C,USA,93163265,551101803,Paramount,96
+Movie868,R,Romance,2010,5,949111,Director D,Writer C,Actor C,USA,132334125,186683620,Disney,96
+Movie869,G,Drama,1996,6.8,667290,Director A,Writer B,Actor C,USA,152986300,1682859546,Paramount,146
+Movie870,G,Comedy,2008,8.8,1762636,Director D,Writer B,Actor A,USA,159547624,2034801747,Paramount,151
+Movie871,PG-13,Crime,2013,8.5,1906850,Director A,Writer B,Actor C,USA,9589489,2403517871,Marvel,163
+Movie872,R,Animation,1994,7.4,829687,Director D,Writer B,Actor C,USA,152837766,2740406240,Marvel,135
+Movie873,PG,Sci-Fi,1997,5.4,1334253,Director B,Writer A,Actor C,USA,198055043,2148844435,Warner Bros,106
+Movie874,PG-13,Action,1981,5.5,1754324,Director A,Writer A,Actor B,USA,281723779,270994564,Warner Bros,154
+Movie875,G,Action,1996,8.4,147181,Director D,Writer B,Actor C,USA,83335194,2792046604,Marvel,168
+Movie876,R,Romance,1994,7.4,1724757,Director C,Writer A,Actor D,USA,63860332,2763468369,Warner Bros,110
+Movie877,PG,Drama,2015,8.7,1540421,Director C,Writer B,Actor C,USA,277386019,58741407,Paramount,138
+Movie878,G,Sci-Fi,2005,9.1,1487679,Director D,Writer B,Actor A,USA,174130274,2896491258,Universal,149
+Movie879,PG,Sci-Fi,2012,8.7,1852897,Director C,Writer C,Actor A,USA,138891600,993911318,Warner Bros,174
+Movie880,PG-13,Crime,1981,9.3,1022409,Director A,Writer A,Actor D,USA,62415465,2493370602,Disney,156
+Movie881,G,Romance,2010,5.9,1093392,Director C,Writer A,Actor A,USA,119823069,2801799000,Marvel,92
+Movie882,G,Sci-Fi,2018,5,176966,Director C,Writer A,Actor A,USA,291649174,149422532,Marvel,137
+Movie883,R,Drama,1993,6.6,920057,Director B,Writer A,Actor A,USA,133482560,388346862,Paramount,179
+Movie884,G,Sci-Fi,1984,7.1,1557491,Director C,Writer A,Actor C,USA,98536003,241602049,Disney,82
+Movie885,R,Drama,2019,6.2,1731586,Director A,Writer A,Actor D,USA,298713429,2746430486,Disney,110
+Movie886,G,Sci-Fi,2020,7.8,652485,Director A,Writer A,Actor A,USA,175602856,2201200542,Warner Bros,81
+Movie887,PG,Drama,1984,5.1,1394908,Director A,Writer C,Actor B,USA,29443891,1868626796,Warner Bros,128
+Movie888,G,Animation,2006,7.3,840121,Director D,Writer C,Actor A,USA,103934000,1064255360,Universal,134
+Movie889,R,Animation,2010,9.5,458541,Director D,Writer B,Actor C,USA,146094542,778617989,Marvel,158
+Movie890,R,Drama,1980,7.8,35763,Director B,Writer C,Actor D,USA,263790127,1111392585,Paramount,97
+Movie891,G,Animation,2017,7.4,1005756,Director D,Writer A,Actor B,USA,282366176,1207586137,Disney,85
+Movie892,R,Comedy,2003,8.3,1131331,Director C,Writer A,Actor C,USA,273878602,2189400332,Marvel,176
+Movie893,PG,Crime,1994,5.7,1212065,Director C,Writer B,Actor D,USA,112644767,660668355,Paramount,139
+Movie894,R,Sci-Fi,1990,9.1,803918,Director A,Writer C,Actor D,USA,118694952,2134189525,Marvel,155
+Movie895,R,Comedy,2010,6.8,227855,Director B,Writer C,Actor D,USA,25151285,1867709873,Paramount,88
+Movie896,R,Romance,1986,5.2,1277533,Director A,Writer C,Actor C,USA,268353303,1097164765,Disney,168
+Movie897,PG,Crime,2007,9,1551205,Director C,Writer A,Actor D,USA,99677410,455640196,Marvel,85
+Movie898,G,Drama,1998,8.6,178225,Director B,Writer B,Actor A,USA,195974086,2462731741,Universal,112
+Movie899,R,Comedy,2016,9,877698,Director A,Writer A,Actor D,USA,267037707,1888784897,Universal,148
+Movie900,R,Animation,2009,6.6,1750080,Director D,Writer C,Actor A,USA,162778556,1621165765,Paramount,115
+Movie901,R,Comedy,1995,9.3,658582,Director B,Writer A,Actor B,USA,55072882,1005695426,Universal,107
+Movie902,PG,Drama,2018,7.6,1569332,Director D,Writer B,Actor C,USA,65688341,588673222,Universal,170
+Movie903,PG-13,Drama,2005,6.3,672532,Director B,Writer C,Actor D,USA,74160640,2675043124,Marvel,171
+Movie904,G,Comedy,2006,8.4,281647,Director A,Writer C,Actor B,USA,139420966,958278725,Disney,124
+Movie905,PG,Comedy,2000,9.4,962874,Director C,Writer C,Actor B,USA,178559653,1770274396,Warner Bros,143
+Movie906,PG-13,Animation,2010,7.8,1491362,Director A,Writer C,Actor B,USA,113695318,1400559474,Disney,174
+Movie907,G,Animation,2006,7.5,146833,Director B,Writer A,Actor D,USA,139571148,2487780679,Universal,154
+Movie908,PG-13,Romance,1994,5.6,1216833,Director C,Writer B,Actor D,USA,38084332,2859788707,Universal,112
+Movie909,PG,Action,1982,6.2,323646,Director A,Writer B,Actor D,USA,205972139,1071439342,Paramount,141
+Movie910,PG,Comedy,1986,6,1781876,Director D,Writer A,Actor B,USA,164899407,489261330,Universal,117
+Movie911,PG,Comedy,1989,9,300189,Director D,Writer C,Actor D,USA,59774129,585691035,Disney,118
+Movie912,G,Action,2001,6.3,1119557,Director A,Writer B,Actor A,USA,44495445,1767277030,Warner Bros,140
+Movie913,PG-13,Action,2015,7.6,976272,Director C,Writer B,Actor A,USA,114541776,41964403,Universal,99
+Movie914,PG-13,Action,1981,9.4,845570,Director C,Writer C,Actor B,USA,208227671,2486971062,Paramount,166
+Movie915,PG-13,Drama,2019,6.1,746118,Director B,Writer B,Actor A,USA,104081236,1311876262,Disney,166
+Movie916,PG,Sci-Fi,1992,6.2,44161,Director C,Writer A,Actor A,USA,174230424,153024863,Universal,102
+Movie917,R,Sci-Fi,2006,8.4,495248,Director C,Writer C,Actor D,USA,108870780,391367939,Universal,89
+Movie918,R,Comedy,1992,5.4,648878,Director B,Writer B,Actor C,USA,90347667,2086390010,Warner Bros,111
+Movie919,R,Animation,1991,6.9,118437,Director D,Writer B,Actor B,USA,107302976,2732743726,Universal,127
+Movie920,R,Crime,2007,7.1,1962304,Director C,Writer B,Actor C,USA,14601297,534239309,Warner Bros,80
+Movie921,R,Sci-Fi,1999,6.8,1839308,Director C,Writer B,Actor A,USA,237476881,2628489173,Warner Bros,106
+Movie922,G,Comedy,2017,7.1,271414,Director C,Writer C,Actor B,USA,117693633,2790522923,Marvel,151
+Movie923,PG,Action,1998,7.3,1950302,Director A,Writer A,Actor D,USA,295426790,1042588410,Marvel,90
+Movie924,G,Crime,1998,6,700661,Director D,Writer C,Actor D,USA,187680687,2675239855,Marvel,113
+Movie925,PG,Comedy,1997,8.2,1506126,Director C,Writer B,Actor D,USA,75219068,2305209027,Paramount,123
+Movie926,PG,Sci-Fi,1996,7.9,648558,Director C,Writer B,Actor B,USA,39174272,1536336744,Paramount,108
+Movie927,PG,Animation,2007,8,639156,Director A,Writer A,Actor A,USA,275984944,1614984466,Warner Bros,130
+Movie928,R,Romance,2009,6,1217614,Director B,Writer C,Actor D,USA,177336517,2782356036,Universal,138
+Movie929,PG-13,Drama,2008,5.5,1112845,Director D,Writer C,Actor A,USA,27192844,1108200232,Disney,117
+Movie930,G,Drama,2010,5.3,1747992,Director D,Writer A,Actor D,USA,183040534,984687350,Universal,102
+Movie931,R,Romance,2013,7.3,826592,Director B,Writer B,Actor B,USA,142915898,1115874523,Disney,160
+Movie932,PG-13,Animation,2021,9.5,1329158,Director A,Writer C,Actor C,USA,219410866,2252179673,Universal,173
+Movie933,PG-13,Comedy,2014,8.9,1363580,Director C,Writer B,Actor C,USA,290966528,2364348650,Warner Bros,82
+Movie934,PG,Sci-Fi,1986,6.4,1962871,Director A,Writer A,Actor B,USA,66260216,2959204482,Marvel,154
+Movie935,PG-13,Sci-Fi,2009,9.2,1978695,Director D,Writer C,Actor C,USA,48998164,2662410696,Marvel,101
+Movie936,G,Comedy,2013,5.3,800091,Director B,Writer A,Actor C,USA,43229509,2330650554,Universal,135
+Movie937,R,Crime,1998,5.6,1322973,Director D,Writer B,Actor B,USA,53282438,1232962780,Universal,154
+Movie938,R,Romance,1989,7.3,1233026,Director D,Writer B,Actor B,USA,253433625,1559299916,Disney,155
+Movie939,PG,Drama,2015,7.9,554591,Director D,Writer C,Actor D,USA,275555502,2457512095,Warner Bros,156
+Movie940,G,Action,2021,6.1,794395,Director A,Writer B,Actor B,USA,155904424,1964877877,Warner Bros,93
+Movie941,PG-13,Comedy,2016,9.1,731657,Director A,Writer B,Actor A,USA,226834585,2163418108,Marvel,135
+Movie942,PG-13,Drama,1989,7.5,1783915,Director D,Writer A,Actor B,USA,115586323,960563679,Warner Bros,147
+Movie943,PG-13,Sci-Fi,1981,6.9,636210,Director B,Writer C,Actor D,USA,12839676,2906667262,Marvel,126
+Movie944,G,Comedy,1991,5.2,1411310,Director B,Writer A,Actor D,USA,60239943,1542212621,Warner Bros,112
+Movie945,R,Romance,1986,9.4,1461860,Director D,Writer B,Actor B,USA,202309463,2480166790,Warner Bros,144
+Movie946,R,Romance,2013,6.1,1870815,Director A,Writer B,Actor C,USA,63259827,1232200957,Disney,83
+Movie947,PG,Action,1986,7.5,1156787,Director B,Writer C,Actor B,USA,221588310,2415615787,Marvel,90
+Movie948,PG,Sci-Fi,2023,6.2,1970403,Director D,Writer C,Actor B,USA,288443118,2968898670,Marvel,106
+Movie949,PG,Animation,2006,7,1933906,Director D,Writer C,Actor B,USA,190561128,1540102274,Paramount,128
+Movie950,PG-13,Comedy,2020,5.5,959174,Director B,Writer C,Actor A,USA,39514618,1309058866,Warner Bros,122
+Movie951,G,Romance,1986,9.4,918155,Director C,Writer C,Actor D,USA,241729312,1438575473,Disney,164
+Movie952,G,Comedy,2015,5.3,262662,Director A,Writer A,Actor A,USA,67476658,1993180220,Marvel,148
+Movie953,G,Drama,1985,6.6,1163684,Director C,Writer B,Actor A,USA,186604474,1299405525,Marvel,113
+Movie954,R,Crime,2000,5.7,1695991,Director D,Writer A,Actor C,USA,291815010,486441467,Warner Bros,139
+Movie955,PG-13,Crime,2010,5.5,404278,Director D,Writer A,Actor D,USA,73816725,1605026038,Universal,111
+Movie956,PG-13,Crime,2004,7.8,1562671,Director C,Writer B,Actor B,USA,267919555,2632384339,Warner Bros,117
+Movie957,R,Animation,1997,6,934430,Director D,Writer B,Actor A,USA,276659722,2366529076,Paramount,102
+Movie958,R,Crime,1985,8,950859,Director B,Writer B,Actor A,USA,198432080,2400651197,Marvel,83
+Movie959,PG-13,Romance,1994,6.7,637150,Director B,Writer B,Actor C,USA,213564541,2103499339,Marvel,164
+Movie960,PG-13,Drama,2000,6.3,196748,Director B,Writer B,Actor D,USA,136624658,1699607495,Paramount,124
+Movie961,G,Action,1995,8.5,244372,Director C,Writer A,Actor D,USA,106425496,1397575018,Disney,111
+Movie962,R,Crime,1994,5.7,1668052,Director A,Writer C,Actor B,USA,74946097,425965035,Warner Bros,141
+Movie963,PG-13,Drama,2001,5.3,1118617,Director D,Writer B,Actor C,USA,57428034,1216935158,Marvel,130
+Movie964,PG,Crime,2010,5.4,1446883,Director A,Writer C,Actor C,USA,166256278,1688485158,Universal,157
+Movie965,PG,Comedy,1995,6.8,181060,Director C,Writer C,Actor A,USA,184499373,2932067599,Warner Bros,97
+Movie966,PG-13,Animation,1988,6.8,1886569,Director D,Writer B,Actor D,USA,51480040,2856779610,Warner Bros,111
+Movie967,PG,Action,1988,8.7,1396077,Director B,Writer A,Actor B,USA,174738419,2693468975,Marvel,138
+Movie968,PG,Animation,2020,9.4,1005364,Director D,Writer B,Actor D,USA,189691149,469595812,Disney,113
+Movie969,PG,Romance,2010,6.5,874319,Director D,Writer C,Actor D,USA,35546445,1273344339,Universal,112
+Movie970,PG-13,Romance,1995,9.2,444529,Director D,Writer C,Actor B,USA,102432759,2510683873,Universal,132
+Movie971,G,Action,1994,8.6,665797,Director D,Writer C,Actor A,USA,151515151,182454116,Paramount,152
+Movie972,PG,Romance,2000,5.8,1894729,Director D,Writer A,Actor B,USA,151071611,2783095893,Marvel,111
+Movie973,PG,Romance,2012,5.7,1307292,Director C,Writer B,Actor C,USA,37237633,20258782,Paramount,106
+Movie974,G,Sci-Fi,1985,9.4,1087667,Director D,Writer C,Actor C,USA,32467111,238079917,Universal,133
+Movie975,PG-13,Comedy,1990,7.5,1976138,Director D,Writer B,Actor A,USA,298372058,2684582257,Paramount,157
+Movie976,R,Romance,2019,6.4,191013,Director B,Writer A,Actor A,USA,187756102,621630687,Disney,176
+Movie977,PG-13,Animation,2012,7.9,840571,Director A,Writer B,Actor B,USA,254381071,2566501525,Disney,165
+Movie978,PG-13,Animation,2015,8.6,790179,Director C,Writer C,Actor A,USA,250406521,1002173737,Paramount,130
+Movie979,PG-13,Crime,1997,7.3,505342,Director C,Writer B,Actor B,USA,76144091,1221634409,Marvel,141
+Movie980,PG-13,Romance,2020,8,1342369,Director D,Writer C,Actor C,USA,259110883,1256297674,Paramount,93
+Movie981,PG-13,Action,1999,6.9,1161371,Director C,Writer A,Actor D,USA,222743610,1303681360,Disney,149
+Movie982,R,Action,1981,5.7,1071909,Director B,Writer B,Actor D,USA,155154310,1865236206,Disney,114
+Movie983,R,Crime,2002,6.2,335091,Director B,Writer A,Actor B,USA,190171420,1216032936,Disney,169
+Movie984,PG-13,Crime,1995,8.1,1892670,Director C,Writer B,Actor D,USA,79367024,2670464072,Universal,96
+Movie985,G,Drama,2008,8.9,1426163,Director D,Writer B,Actor C,USA,137277658,360855516,Universal,129
+Movie986,PG,Romance,2012,7.1,392931,Director D,Writer A,Actor B,USA,113898623,851161393,Warner Bros,178
+Movie987,R,Romance,1999,8.6,866672,Director C,Writer C,Actor B,USA,22148284,1170144977,Warner Bros,180
+Movie988,PG,Action,1984,9.1,1871350,Director C,Writer A,Actor C,USA,194399966,848171722,Paramount,162
+Movie989,R,Action,1995,6.8,1732347,Director A,Writer C,Actor D,USA,16668283,892557467,Warner Bros,104
+Movie990,PG,Animation,2011,5.8,662228,Director D,Writer B,Actor C,USA,293869477,1514875535,Marvel,95
+Movie991,G,Sci-Fi,1989,9,506871,Director C,Writer C,Actor B,USA,253839740,1137380482,Disney,123
+Movie992,G,Crime,1993,6.9,222119,Director B,Writer A,Actor B,USA,60783660,1522876730,Warner Bros,113
+Movie993,PG-13,Crime,1988,5.3,1580088,Director B,Writer A,Actor B,USA,105955758,68736832,Disney,126
+Movie994,PG-13,Sci-Fi,2006,8.7,1320020,Director B,Writer C,Actor A,USA,183359348,2796444267,Marvel,146
+Movie995,R,Action,2011,5.4,804597,Director B,Writer B,Actor C,USA,94655496,2466527775,Universal,116
+Movie996,R,Crime,1997,6.9,1119629,Director A,Writer C,Actor B,USA,228205737,182468135,Marvel,81
+Movie997,PG-13,Sci-Fi,2017,8.1,315089,Director B,Writer B,Actor A,USA,254657664,1204794055,Universal,101
+Movie998,R,Drama,1980,5.1,1560848,Director A,Writer A,Actor D,USA,231738581,1633458866,Warner Bros,100
+Movie999,R,Action,2001,6.5,1608780,Director D,Writer B,Actor A,USA,285261057,600684599,Paramount,137
+Movie1000,G,Crime,1993,9.2,748621,Director D,Writer A,Actor D,USA,78718132,1452549721,Universal,115
